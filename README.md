@@ -69,7 +69,7 @@ Additionally:
 ### 🌱 Growth stages
 
 Stage | Description | Labor
---- | --- | --- | ---
+--- | --- | ---
 Germination (Stage 1) | Sowing to radicle (root) emergence | -
 Germination (Stage 2) | "Sprout": Radicle emergence to expansion of cotyledons (false leaves) | -
 Germination (Stage 3) | "Seedling": Cotyledon expansion to vegetative growth | -
@@ -85,7 +85,7 @@ Maturity | From first harvest to the end of last harvest | Harvest
 
 #### Light Quality
 
-![Based on https://en.wikipedia.org/wiki/File:EM_spectrumrevised.png](par.png)
+![Based on https://en.wikipedia.org/wiki/File:EM_spectrumrevised.png](img/par.png)
 
 Light quality refers to the distribution of wavelengths (colors) in a light. The part of the light spectrum most relevant to photosynthesis is 400–700 nm. This range is named [Photosynthetically Active Radiation (PAR)](https://en.wikipedia.org/wiki/Photosynthetically_active_radiation).
 
@@ -99,7 +99,7 @@ Shopping advice:
 
 #### Light Quantity
 
-![Based on https://en.wikipedia.org/wiki/PI_curve](light-points.png)
+![Based on https://en.wikipedia.org/wiki/PI_curve](img/light-points.png)
 
 The rate of plant growth scales mostly linearly to quantity (intensity) of light. However, below a certain quantity (the *light compensation point*), there is not enough energy to fuel growth. On the other side, above a certain quantity (the *light saturation point*), plants become damaged. Tolerance levels vary from crop to crop (see the Data section).
 
@@ -141,7 +141,7 @@ Shopping advice:
 
 Every plant has a base (minimum) temperature (_T𝘣𝘢𝘴𝘦_), an optimal temperature (_T𝘰𝘱𝘵_), and an maximum temperature (_T𝘮𝘢𝘹_). These temperature ranges can vary across growth stages.
 
-![](temp.png)
+![](img/temp.png)
 
 Crucially, there is a tradeoff between growth rate and growth quality. Higher temperatures can result in faster growth but also thinner stems, weaker roots, and less flavor. Furthermore, gases become less soluable at higher temperatures, increasing the risk of oxygen deficiency.
 
@@ -179,7 +179,7 @@ The remaining nutrients must be obtained from the soil (or alternative growth me
 
 Nitrogen is a key ingredient in many plant substances, including chlorophyll. However, potassium is used by fruiting crops (such as tomatoes) even more heavily than nitrogen, as evidenced in the following diagram, which shows the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
 
-![Based on https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition](npk-stages.png)
+![Based on https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition](img/npk-stages.png)
 
 
 #### Electrical Conductivity (EC)
@@ -191,7 +191,7 @@ A [EC meter](https://en.wikipedia.org/wiki/Electrical_conductivity_meter) measur
 
 #### pH
 
-![Source: https://commons.wikimedia.org/wiki/File:Truog_1947_pH_and_nutrient_availability.jpg](ph.jpg)
+![Source: https://commons.wikimedia.org/wiki/File:Truog_1947_pH_and_nutrient_availability.jpg](img/ph.jpg)
 
 [pH](https://en.wikipedia.org/wiki/PH) is the measure of acidity or alkalinity (basicity) of a solution, where acidic refers to having a high concentration of hydrogen ions (H⁺).
 
