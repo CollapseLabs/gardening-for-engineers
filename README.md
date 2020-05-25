@@ -1,10 +1,10 @@
 # Vegetable Gardening for Engineers
 
-This document is a starting point for understanding how to grow vegetables at home. I created this document out of dissatisfaction with popular gardening books (lack technical detail and scientific rigor) and social media (too much clickbait). I found myself having to organize and synthesize concepts, data, and advice from disparate sources. I even turned to material from agricultural university extension programs, crop guides from commercial seed and fertilizer companies, high school biology courses, live farmer training courses and gardening workshops, and techniques from indoor cannabis growers.
+This document is a starting point for understanding how to grow vegetables at home. I created this document out of dissatisfaction with popular gardening books (lack detail) and social media (too much clickbait). I found myself organizing and synthesizing concepts, data, and advice from disparate sources. I even turned to material from agricultural university extension programs, crop guides from commercial seed and fertilizer companies, high school biology courses, live farmer training courses and gardening workshops, and techniques from indoor cannabis growers.
 
-This document reflects my personal learning journey over the past years. You are welcome (probably) to submit pull requests or email me with feedback.
+This document reflects my personal learning journey over the past years. You are welcome to submit pull requests or email me with feedback.
 
-The current focus is on indoor and balcony growing in an urban apartment setting. Therefore, only container gardening and hydroponics are covered. Garden bed preparation, composting, aquaponics, fungiculture, permaculture are not covered (yet).
+Currently the focus is on indoor and balcony growing in an urban apartment setting. Therefore, only container gardening and hydroponics are covered. Garden beds, composting, aquaponics, fungiculture, permaculture are not covered (yet).
 
 
 ## Table of Contents
@@ -12,11 +12,11 @@ The current focus is on indoor and balcony growing in an urban apartment setting
 This document is organized broadly in three parts:
 
 1. 🍎 Concepts
-    1. ☯️ Environmental parameters
-    1. 🌱 Growth stages
-    1. ☀️ Light
-    1. 🌡 Temperature
-    1. ⛽️ Nutrition
+    1. Environmental parameters
+    1. Growth stages
+    1. Light
+    1. Temperature
+    1. Nutrition
 2. 🔢 Data
 3. 🛠 Techniques & Resources
 
