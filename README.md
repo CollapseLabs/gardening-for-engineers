@@ -239,13 +239,12 @@ See also: companion planting, succession planting, crop rotation
 
 Techniques:
 
-* Kratky (passive) - for greens at small-scale
-* NFT - for greens at large-scale
-* Bato Bucket - for fruiting crops at medium-scale
-* Media Bed - for small-scale anything
-* DWC/Raft - for aquaponics
+* Kratky (passive) - best for leafy greens at small-scale
+* NFT - best for leafy greens at large-scale
+* Bato Bucket - best for fruiting crops at small- to medium-scale
+* DWC/Raft - best for aquaponics
 
-#### More about hydroponics
+More about hydroponics:
 
 * https://generalhydroponics.com/knowledgebase
 * http://howardresh.com/
@@ -257,6 +256,10 @@ Online courses:
 
 * [Upstart University](https://university.upstartfarmers.com/) - paid, focused on commercial hydroponic or aquaponic production
 
+Automation:
+
+* DFRobot: [Build KnowFlow: automatic water monitor](https://www.dfrobot.com/blog-733.html), [How to Make An Automatic Water Changing System](https://www.dfrobot.com/blog-679.html)
+
 
 ### Container gardening
 
@@ -267,6 +270,11 @@ Online courses:
 
 * [GIY (Grow It Yourself)](https://www.giy.ie/) - free 12 week course
 * [Vegetable Academy](https://www.vegetableacademy.com/) - free/paid
+
+Automation:
+
+* Xiaomi Flower Care (MiFlora) sensors: https://github.com/vrachieru/xiaomi-flower-care-api
+* DFRobot: [EcoDuino - An Auto Planting Kit](https://www.dfrobot.com/product-641.html)
 
 ### Backyard/allotment gardening
 
