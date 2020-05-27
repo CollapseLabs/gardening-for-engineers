@@ -1,6 +1,6 @@
 # Vegetable Gardening for Engineers
 
-This document is a starting point for understanding how to grow vegetables at home. I created this document out of dissatisfaction with popular gardening books (lack detail) and social media (too much clickbait). I found myself organizing and synthesizing concepts, data, and advice from disparate sources. I even turned to material from agricultural university extension programs, crop guides from commercial seed and fertilizer companies, high school biology courses, live farmer training courses and gardening workshops, and techniques from indoor cannabis growers.
+This is a starting point for understanding how to grow vegetables at home. I created this document out of dissatisfaction with popular gardening books (too little detail) and social media (too much talking and clickbait). I found myself organizing and synthesizing concepts, data, and advice from disparate sources. I even turned to material from agricultural university extension programs, crop guides from commercial seed and fertilizer companies, high school biology courses, live farmer training courses and gardening workshops, and techniques from indoor cannabis growers.
 
 This document reflects my personal learning journey over the past years. You are welcome to submit pull requests or email me with feedback.
 
@@ -12,15 +12,15 @@ Currently the focus is on indoor and balcony growing in an urban apartment setti
 This document is organized broadly in three parts:
 
 1. 🍎 Concepts
-    1. Environmental parameters
-    1. Growth stages
-    1. Light
-    1. Temperature
-    1. Nutrition
-2. 🔢 Data
-3. 🛠 Techniques & Resources
+    1. [Environmental parameters](#☯️-Environmental-parameters)
+    1. [Growth stages](#🌱-Growth-stages)
+    1. [Light](#☀️-Light)
+    1. [Temperature](#🌡-Temperature)
+    1. [Nutrition](#⛽️-Nutrition)
+1. 🔢 Data
+1. 🛠 Techniques & Resources
 
-The first part summarizes the science of growing vegetables (for those of us who weren't paying enough attention in high school). The second part features tables of data for popular garden crops. The third part presents some well-known gardening systems, techniques, and other resources.
+The first part provides a conceptual understanding of the science of growing vegetables. The second part features tables of data ("VegTable") for many garden crops. It answers basic questions about crop selection. The third part is a collection of links about well-known growing systems, techniques, and other resources.
 
 
 ## 🍎 Concepts
@@ -41,29 +41,33 @@ pH | Soil | [pH](https://en.wikipedia.org/wiki/PH) | pH
 Oxygen (O₂) | Soil | [Dissolved Oxygen (DO)](https://en.wikipedia.org/wiki/Oxygen_saturation) | ppm
 Temperature | Soil | Root-zone temperature | °C
 
-Why are these relevant? Plants perform two complementary processes: 
+Why are these relevant? Plants perform two critical processes which are complementary: 
 
-* Plants convert light energy into storable chemical energy (carbohydrates) during **photosynthesis**. In other words: ☀️ light energy + 💨 CO₂ + 💧 water → 🔋 stored energy + 💨 O₂
-* Plants use the stored energy (carbohydrates) to fuel growth in a process called **respiration**. In other words: 🔋 stored energy + 💨 O₂ → 💨 CO₂ + 💧 water
+* Plants convert light energy into storable chemical energy (carbohydrates) during **photosynthesis**. In other words: ☀️ Light energy + 💨 Carbon dioxide + 💧 Water → 🔋 Stored energy + 💨 Oxygen
+* Plants use the stored energy (carbohydrates) to fuel growth, in a process called **respiration**. In other words: 🔋 Stored energy + 💨 Oxygen → 💨 Carbon dioxide + 💧 Water
 
-*Light* is the single most important environmental parameter as it literally provides energy for plant growth. 
+*[Light](#☀️-Light)* is the single most important environmental parameter as it literally provides energy for plant growth. 
 
-*Temperature* dictates a plant’s metabolic rate and therefore also strongly influences growth rate. 
+*[Temperature](#🌡-Temperature)* dictates a plant’s metabolic rate and therefore also strongly influences growth rate. 
 
-*pH* is known as the “master soil variable” as it influences the solubility of nutrients (and other processes, including microbial activity) and therefore nutrient bioavailability.
+Additionally, there is another critical process:
 
-Additionally:
+* The evaporation of water through a plant’s leaves pulls water (containing dissolved nutrients) up from the roots. This is a passive process called **transpiration**.
 
-* The evaporation of water through a plant’s leaves passively pulls water containing dissolved nutrients up from the roots. This process is called **transpiration**.
+*[Soil pH](#pH)* is sometimes called a “master variable” as it affects the solubility of soil nutrients (among other things, including microbial activity) and therefore nutrient availability, hence plant growth.
 
-*Humidity*, *wind*, and *temperature* all affect the rate of evaporation and therefore also growth.
+Air *humidity*, *wind*, and *[temperature](#🌡-Temperature)* all affect the rate of transpiration and therefore also plant growth.
 
+Environments:
 
-#### Learn more about plant biology
+* In an indoor system, the environmental parameters are mostly controlled. Limiting factors are likely 1) light, 2) space (area), 3) water, 4) nutrition, 5) oxygen (for soil-less systems and compact soils).
+* In an outdoor system, think about sun, wind, temperature, water access, soil conditions. Look for planting calendars and first/last frost dates.
 
+#### More about plant biology
+
+* Mary M. Pratt, _Practical Science for Gardeners_, 2005.
 * Khan Academy, "Cellular respiration", https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation
 * Khan Academy, "Photosynthesis", https://www.khanacademy.org/science/biology/photosynthesis-in-plants
-* Mary M. Pratt, _Practical Science for Gardeners_, 2005.
 
 
 ### 🌱 Growth stages
@@ -87,7 +91,7 @@ Maturity | From first harvest to the end of last harvest | Harvest
 
 ![Based on https://en.wikipedia.org/wiki/File:EM_spectrumrevised.png](img/par.png)
 
-Light quality refers to the distribution of wavelengths (colors) in a light. The part of the light spectrum most relevant to photosynthesis is 400–700 nm. This range is named [Photosynthetically Active Radiation (PAR)](https://en.wikipedia.org/wiki/Photosynthetically_active_radiation).
+*Light quality* refers to the distribution of wavelengths (colors) in a light. The part of the light spectrum most relevant to photosynthesis is 400–700 nm. This range is named [Photosynthetically Active Radiation (PAR)](https://en.wikipedia.org/wiki/Photosynthetically_active_radiation).
 
 Historically it was believed that plants only used red and blue light. It is now understood that green light, as well as far-red and ultraviolet light, which are both outside PAR, can all affect plant development. Specifically, far-red (FR) light, which penetrates leaves, can tell plants that they are under a canopy and promote growth, whereas blue-violet and ultraviolet light, which are abundant in the sky, can [inhibit growth](https://en.wikipedia.org/wiki/Crown_shyness).
 
@@ -101,7 +105,7 @@ Shopping advice:
 
 ![Based on https://en.wikipedia.org/wiki/PI_curve](img/light-points.png)
 
-The rate of plant growth scales mostly linearly to quantity (intensity) of light. However, below a certain quantity (the *light compensation point*), there is not enough energy to fuel growth. On the other side, above a certain quantity (the *light saturation point*), plants become damaged. Tolerance levels vary from crop to crop (see the Data section).
+The rate of plant growth scales to *light quantity* (intensity). However, below a certain quantity (the *light compensation point*), there is not enough energy to fuel growth. On the other side, above a certain quantity (the *light saturation point*), plants become damaged. Tolerance levels vary from crop to crop (see the Data section).
 
 Light quantity is measured in various ways, with a key metric being [Daily Light Integral (DLI)](https://en.wikipedia.org/wiki/Daily_light_integral).
 
@@ -127,7 +131,7 @@ Shopping advice:
 [Photoperiodism](https://en.wikipedia.org/wiki/Photoperiodism) refers to how the light cycle affects plant growth and flowering. *Short-day plants* (e.g. lettuce) only flower when days are shorter than a certain length, *long-day plants* (e.g. mung beans) only flower when days are longer than a certain length, and *day-neutral plants* (e.g. tomatoes) flower based on other conditions.
 
 
-#### Learn more about plant lighting
+#### More about plant lighting
 
 * Fluence By OSRAM, https://fluence.science/science-articles/
 * AlboPepper, "PAR Light Quality LEDs & HID: Plant Grow Light Basics -101 (pt 1)", August 17, 2017, https://www.youtube.com/watch?v=O3dxjk_E2Ac
@@ -139,7 +143,7 @@ Shopping advice:
 
 ### 🌡 Temperature
 
-Every plant has a base (minimum) temperature (_T𝘣𝘢𝘴𝘦_), an optimal temperature (_T𝘰𝘱𝘵_), and an maximum temperature (_T𝘮𝘢𝘹_). These temperature ranges can vary across growth stages.
+Every plant has a base (minimum) temperature (_T𝘣𝘢𝘴𝘦_), an optimal temperature (_T𝘰𝘱𝘵_), and an maximum temperature (_T𝘮𝘢𝘹_). These temperature ranges can vary across [growth stages](#🌱-Growth-stages).
 
 ![](img/temp.png)
 
@@ -163,7 +167,7 @@ Plants can be grouped according to their tolerance for cold temperatures:
 * intermediate ("cold-temperate")
 * warm season ("cold-sensitive")
 
-#### Learn more about plant temperature
+#### More about plant temperature
 
 * Christopher Currey, "Find your just-right temperature", Oct 3, 2016, https://www.producegrower.com/article/hydroponic-production-primer-temperature/
 * Roberto Lopez, "Effects of Temperature on Greenhouse Crops", Purdue University, http://www.e-gro.org/pdf/206.pdf
@@ -171,20 +175,24 @@ Plants can be grouped according to their tolerance for cold temperatures:
 
 ### ⛽️ Nutrition
 
-Plants require 17 [essential nutrients](https://en.wikipedia.org/wiki/Plant_nutrition) for survival.
+Plants require 17 [essential nutrients](https://en.wikipedia.org/wiki/Plant_nutrition) ("[minerals](https://en.wikipedia.org/wiki/Mineral_(nutrient))") for survival.
 
-Plants obtain carbon (C), hydrogen (H), and oxygen (O) freely from air (CO₂ and O₂) and water (H₂O).
+Of these, plants obtain carbon (C), hydrogen (H), and oxygen (O) freely from air (CO₂ and O₂) and water (H₂O).
 
-The remaining nutrients must be obtained from the soil (or alternative growth medium) as [mineral salts](https://en.wikipedia.org/wiki/Salt_(chemistry)). Of these, nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts. (Commercial fertilizers are therefore labeled with N-P-K ratios.)
+The remaining nutrients are obtained from the soil (or alternative growing medium) in the form of [salts](https://en.wikipedia.org/wiki/Salt_(chemistry)). This happens through multiple processes: by the root physically growing in contact with the nutrients ("root interception"), by dissolved nutrients flowing through the soil solution to the root ("mass flow"), and by dissolved nutrients diffusing through the soil solution to the depleted soil next to the plant root ("diffusion").
 
-Nitrogen is a key ingredient in many plant substances, including chlorophyll. However, potassium is used by fruiting crops (such as tomatoes) even more heavily than nitrogen, as evidenced in the following diagram, which shows the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
+Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios.
+
+Nitrogen is a key ingredient in many plant substances, including chlorophyll. However, potassium is used by fruiting crops (such as tomatoes) even more heavily than nitrogen, as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
 
 ![Based on https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition](img/npk-stages.png)
 
 
 #### Electrical Conductivity (EC)
 
-A [EC meter](https://en.wikipedia.org/wiki/Electrical_conductivity_meter) measures electrical conductivity, which is an indicator of the amount of total dissolved mineral salts (nutrients) in a solution.
+A [EC meter](https://en.wikipedia.org/wiki/Electrical_conductivity_meter) measures electrical conductivity, an indicator of the amount of total dissolved mineral salts (nutrients) in a solution.
+
+Notes:
 
 * EC cannot be used to determine the amounts or ratios of specific nutrients.
 * A [Total Dissolved Solids (TDS)](https://en.wikipedia.org/wiki/Total_dissolved_solids) meter is an EC meter which performs an output conversion to TDS, measured in ppm. Be aware that the conversion factor varies across reference materials and nutrient suppliers in different countries. The best approach is to use only EC, not TDS.
@@ -195,21 +203,24 @@ A [EC meter](https://en.wikipedia.org/wiki/Electrical_conductivity_meter) measur
 
 [pH](https://en.wikipedia.org/wiki/PH) is the measure of acidity or alkalinity (basicity) of a solution, where acidic refers to having a high concentration of hydrogen ions (H⁺).
 
-pH is very important as it affects the bioavailability of nutrients to plants. Soil particles commonly have negative charges, which attract nutrients with positive charges (cations). The holding capacity of a soil is called the [Cation Exchange Capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
+Soil pH is highly important as it affects the bioavailability of nutrients to plants. Soil particles commonly have negative charges, which attract nutrients with positive charges (cations). The holding capacity of a soil is called the [cation-exchange capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
 
 
 #### Shopping advice
 
-* Reputable instrument manufacturers include [Apera Instruments](https://aperainst.com/) (US), [Bluelab](https://www.bluelab.com/) (NZ), [Hanna Instruments](https://www.hannainst.com/) (IT), [HM Digital](http://hmdigital.com/) (KR), [Milwaukee Instruments](https://milwaukeeinstruments.com/) (US), and [Oakton Instruments](http://www.4oakton.com/) (US).
 * An entry-level EC meter (e.g. _HM Digital EC-3_) costs 20–30 USD.
 * An entry-level pH meter (e.g. _Apera Instruments PH20_) costs 50–60 USD; a professional-level pH meter (e.g. _Bluelab pH Pen_) costs over 100 USD. You also need to buy liquid products for cleaning, storing (pH probes must be stored in a buffer solution), and calibrating the highly sensitive pH probe. These may be sold together as a kit.
 * Be sure to get a pH meter with a replaceable probe. Even if unused, the pH electrode has a lifespan of only 6–18 months.
+* As an alternative to buying a pH meter, start with pH indicator drops, litmus paper, or even homemade red cabbage juice.
+* Reputable instrument manufacturers include [Apera Instruments](https://aperainst.com/) (US), [Bluelab](https://www.bluelab.com/) (NZ), [Hanna Instruments](https://www.hannainst.com/) (IT), [HM Digital](http://hmdigital.com/) (KR), [Milwaukee Instruments](https://milwaukeeinstruments.com/) (US), and [Oakton Instruments](http://www.4oakton.com/) (US).
 
 
-#### Learn more about plant nutrition
+#### More about plant nutrition
 
 * Jeff Lowenfels, _Teaming with Nutrients_, 2013.
+* Mary M. Pratt, _Practical Science for Gardeners_, 2005.
 * NM State University, "Science of Agriculture: Cation Exchange", https://scienceofagriculture.org/ch-cation.php
+* Khan Academy, "Biogeochemical cycles", https://www.khanacademy.org/science/biology/ecology#biogeochemical-cycles
 * Khan Academy, "Acids, bases, and pH
 ", https://www.khanacademy.org/science/biology/water-acids-and-bases
 
@@ -219,16 +230,14 @@ pH is very important as it affects the bioavailability of nutrients to plants. S
 TBD
 
 
+See also: companion planting, succession planting, crop rotation
+
+
 ## 🛠 Techniques & Resources
 
-### Methodologies
+### Hydroponics
 
-* [Square Foot Gardening](https://squarefootgardening.org/) by Mel Bartholomew
-* [GROW BIOINTENSIVE Sustainable Mini-Farming](http://growbiointensive.org/) by John Jeavons and Ecology Action
-* [SPIN Gardening](http://spingardening.com/) by Wally Satzewich, Gail Vandersteen, Roxanne Christensen
-
-
-### Hydroponics techniques
+Techniques:
 
 * Kratky (passive) - for greens at small-scale
 * NFT - for greens at large-scale
@@ -236,9 +245,37 @@ TBD
 * Media Bed - for small-scale anything
 * DWC/Raft - for aquaponics
 
+#### More about hydroponics
 
-### Online courses
+* https://generalhydroponics.com/knowledgebase
+* http://howardresh.com/
+* http://blogs.cornell.edu/cornellcea/
+* http://www.e-gro.org/ - focused on commercial greenhouses
+* https://scienceinhydroponics.com/
+
+Online courses:
+
+* [Upstart University](https://university.upstartfarmers.com/) - paid, focused on commercial hydroponic or aquaponic production
+
+
+### Container gardening
+
+* Seed starter soil vs planting soil
+* Fungus gnats https://www.youtube.com/user/pilarchik/search?query=Fungus+Gnats
+
+Online courses:
 
 * [GIY (Grow It Yourself)](https://www.giy.ie/) - free 12 week course
 * [Vegetable Academy](https://www.vegetableacademy.com/) - free/paid
-* [Upstart University](https://university.upstartfarmers.com/) - paid, focused on commercial hydroponic or aquaponic production
+
+### Backyard/allotment gardening
+
+Methodologies:
+
+* [Square Foot Gardening](https://squarefootgardening.org/) by Mel Bartholomew
+* [GROW BIOINTENSIVE Sustainable Mini-Farming](http://growbiointensive.org/) by John Jeavons and Ecology Action
+* [SPIN Gardening](http://spingardening.com/) by Wally Satzewich, Gail Vandersteen, Roxanne Christensen
+
+Techniques:
+
+* Hügelkultur
