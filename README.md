@@ -12,11 +12,13 @@ Currently the focus is on indoor and balcony growing in an urban apartment setti
 This document is organized broadly in three parts:
 
 1. 🍎 Concepts
-    1. [Environmental parameters](#☯️-Environmental-parameters)
-    1. [Growth stages](#🌱-Growth-stages)
-    1. [Light](#☀️-Light)
-    1. [Temperature](#🌡-Temperature)
-    1. [Nutrition](#⛽️-Nutrition)
+    1. [☯️ Environmental parameters](#☯️-Environmental-parameters)
+    1. [🌱 Growth stages](#🌱-Growth-stages)
+    1. [☀️ Light](#☀️-Light)
+    1. [🌡 Temperature](#🌡-Temperature)
+    1. [⛽️ Nutrition](#⛽️-Nutrition)
+    1. [🤎 Soil](#🤎-Soil)
+    1. [💧 Water](#💧-Water)
 1. 🔢 Data
 1. 🛠 Techniques & Resources
 
@@ -27,19 +29,23 @@ The first part provides a conceptual understanding of the science of growing veg
 
 ### ☯️ Environmental parameters
 
-There are nine environmental parameters relevant to every plant:
+There are some environmental parameters relevant to every plant:
 
-Parameter | Zone | Measurement | Unit
+Parameter | Measurement | Unit | Zone
 --- | --- | --- | ---
-Light | Light | [Daily Light Integral (DLI)](https://en.wikipedia.org/wiki/Daily_light_integral) | mol/m²/day
-Temperature | Air | Air temperature | °C
-Humidity | Air | [Relative Humidity (RH)](https://en.wikipedia.org/wiki/Relative_humidity) | %
-Wind | Air | [Wind speed](https://en.wikipedia.org/wiki/Wind_speed) | m/s
-Carbon dioxide (CO₂) | Air | Carbon dioxide | ppm
-Nutrients | Soil | [Electrical Conductivity (EC)](https://en.wikipedia.org/wiki/Conductivity_(electrolytic)) | μS/cm
-pH | Soil | [pH](https://en.wikipedia.org/wiki/PH) | pH
-Oxygen (O₂) | Soil | [Dissolved Oxygen (DO)](https://en.wikipedia.org/wiki/Oxygen_saturation) | ppm
-Temperature | Soil | Root-zone temperature | °C
+**Light** | [Daily Light Integral (DLI)](https://en.wikipedia.org/wiki/Daily_light_integral)* | mol/m²/day | Light
+**Temperature** | Air temperature* | °C | Air
+Humidity | [Relative Humidity (RH)](https://en.wikipedia.org/wiki/Relative_humidity) | % | Air
+Wind | [Wind speed](https://en.wikipedia.org/wiki/Wind_speed) | m/s | Air
+Carbon dioxide (CO₂) | Carbon dioxide | ppm | Air
+**Nutrients** | [Electrical Conductivity (EC)](https://en.wikipedia.org/wiki/Conductivity_(electrolytic))* | μS/cm | Soil/Water
+**pH** | [pH](https://en.wikipedia.org/wiki/PH)* | pH | Soil/Water
+Temperature | Root-zone temperature | °C | Soil/Water
+Oxygen (O₂) | [Dissolved Oxygen (DO)](https://en.wikipedia.org/wiki/Oxygen_saturation) | ppm | Soil/Water
+Water redox potential | [Oxidation-reduction potential (ORP)](https://en.wikipedia.org/wiki/Reduction_potential) | mV | Water
+Water hardness | [Degree of hardness](https://en.wikipedia.org/wiki/Hard_water#Measurement) | various | Water
+
+\* key measurements for small-scale systems
 
 Why are these relevant? Plants perform two critical processes which are complementary: 
 
@@ -190,12 +196,12 @@ Nitrogen is a key ingredient in many plant substances, including chlorophyll. Ho
 
 #### Electrical Conductivity (EC)
 
-A [EC meter](https://en.wikipedia.org/wiki/Electrical_conductivity_meter) measures electrical conductivity, an indicator of the amount of total dissolved mineral salts (nutrients) in a solution.
+A [EC meter](https://en.wikipedia.org/wiki/Electrical_conductivity_meter) measures electrical conductivity, which is an indicator of the amount of dissolved nutrients (mineral salts) in a solution. 
 
 Notes:
 
 * EC cannot be used to determine the amounts or ratios of specific nutrients.
-* A [Total Dissolved Solids (TDS)](https://en.wikipedia.org/wiki/Total_dissolved_solids) meter is an EC meter which performs an output conversion to TDS, measured in ppm. Be aware that the conversion factor varies across reference materials and nutrient suppliers in different countries. The best approach is to use only EC, not TDS.
+* A [Total Dissolved Solids (TDS)](https://en.wikipedia.org/wiki/Total_dissolved_solids) meter measures the amount of all kinds of dissolved solids (inorganic as well as organic) in a solution. Essentially it is an EC meter which performs an output conversion to TDS, measured in ppm. Be aware that the conversion factor varies across reference materials and nutrient suppliers in different applications and countries. For measuring hydroponic nutrients, the best approach is to use only EC, not TDS.
 
 #### pH
 
@@ -203,26 +209,42 @@ Notes:
 
 [pH](https://en.wikipedia.org/wiki/PH) is the measure of acidity or alkalinity (basicity) of a solution, where acidic refers to having a high concentration of hydrogen ions (H⁺).
 
-Soil pH is highly important as it affects the bioavailability of nutrients to plants. Soil particles commonly have negative charges, which attract nutrients with positive charges (cations). The holding capacity of a soil is called the [cation-exchange capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
+Soil pH is highly important as it affects the bioavailability of nutrients to plants.
 
 
 #### Shopping advice
 
 * An entry-level EC meter (e.g. _HM Digital EC-3_) costs 20–30 USD.
-* An entry-level pH meter (e.g. _Apera Instruments PH20_) costs 50–60 USD; a professional-level pH meter (e.g. _Bluelab pH Pen_) costs over 100 USD. You also need to buy liquid products for cleaning, storing (pH probes must be stored in a buffer solution), and calibrating the highly sensitive pH probe. These may be sold together as a kit.
-* Be sure to get a pH meter with a replaceable probe. Even if unused, the pH electrode has a lifespan of only 6–18 months.
+* An entry-level pH meter (e.g. _Apera Instruments PH20_) costs 50–60 USD; a professional-level pH meter (e.g. _Bluelab pH Pen_) costs over 100 USD. You also need to buy liquid products for cleaning, storing (pH probes must be stored in a buffer solution), and calibrating the highly sensitive pH probe. These may be sold together as a kit. Be sure to get a pH meter with a replaceable probe. Even if unused, the pH electrode has a lifespan of only 6–18 months.
 * As an alternative to buying a pH meter, start with pH indicator drops, litmus paper, or even homemade red cabbage juice.
 * Reputable instrument manufacturers include [Apera Instruments](https://aperainst.com/) (US), [Bluelab](https://www.bluelab.com/) (NZ), [Hanna Instruments](https://www.hannainst.com/) (IT), [HM Digital](http://hmdigital.com/) (KR), [Milwaukee Instruments](https://milwaukeeinstruments.com/) (US), and [Oakton Instruments](http://www.4oakton.com/) (US).
 
 
 #### More about plant nutrition
 
-* Jeff Lowenfels, _Teaming with Nutrients_, 2013.
+* Jeff Lowenfels, _Teaming with Nutrients: The Organic Gardener’s Guide to Optimizing Plant Nutrition_, 2013.
 * Mary M. Pratt, _Practical Science for Gardeners_, 2005.
 * NM State University, "Science of Agriculture: Cation Exchange", https://scienceofagriculture.org/ch-cation.php
-* Khan Academy, "Biogeochemical cycles", https://www.khanacademy.org/science/biology/ecology#biogeochemical-cycles
 * Khan Academy, "Acids, bases, and pH
+* Khan Academy, "Biogeochemical cycles", https://www.khanacademy.org/science/biology/ecology#biogeochemical-cycles
 ", https://www.khanacademy.org/science/biology/water-acids-and-bases
+
+
+### 🤎 Soil
+
+Soil can be understood from three simultaneous perspectives:
+
+* **Physically**: Soil is a mixture of solids, liquids, and gases: typically 50% water, dissolved minerals, and various gases held in [pores](https://en.wikipedia.org/wiki/Pore_space_in_soil), 45% inorganic particles (sand, silt, and clay), and 5% organic matter ("[soil organic matter](https://en.wikipedia.org/wiki/Soil_organic_matter)"). *[Soil texture](https://en.wikipedia.org/wiki/Soil_texture)* is determined by the exact proportion of sand (most coarse), silt, and clay (most fine) particles.
+* **Chemically**: Soil is effective an aqueous solution containing dissolved minerals (nutrients) along with organic and inorganic particles. The particles commonly have negative charges, which attract nutrients with positive charges (cations). This allows the soil to hold and release certain nutrients. The nutrient holding capacity of a soil is called the [cation-exchange capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
+
+* **Biologically**: Soil is an ecosystem of microbes, including bacteria and mycorrhizal fungi. See Jeff Lowenfels, _Teaming with Microbes: The Organic Gardener’s Guide to The Soil Food Web_ and _Teaming With Fungi: The Organic Grower’s Guide to Mycorrhizae_
+
+
+### 💧 Water
+
+TBD
+
+* https://en.wikipedia.org/wiki/Hard_water
 
 
 ## 🔢 Data
@@ -249,8 +271,8 @@ More about hydroponics:
 * https://generalhydroponics.com/knowledgebase
 * http://howardresh.com/
 * http://blogs.cornell.edu/cornellcea/
-* http://www.e-gro.org/ - focused on commercial greenhouses
 * https://scienceinhydroponics.com/
+* http://www.e-gro.org/ - focused on commercial greenhouses
 
 Online courses:
 
@@ -264,12 +286,12 @@ Automation:
 ### Container gardening
 
 * Seed starter soil vs planting soil
-* Fungus gnats https://www.youtube.com/user/pilarchik/search?query=Fungus+Gnats
+* Fungus gnats: https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=25318
 
 Online courses:
 
-* [GIY (Grow It Yourself)](https://www.giy.ie/) - free 12 week course
-* [Vegetable Academy](https://www.vegetableacademy.com/) - free/paid
+* [GIY (Grow It Yourself)](https://www.giy.ie/) (Ireland) - free 12 week course
+* [Vegetable Academy](https://www.vegetableacademy.com/) (Canada) - free/paid
 
 Automation:
 
