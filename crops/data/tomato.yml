@@ -1,0 +1,21 @@
+title: Tomato
+botanical_family: Solanaceae (Nightshade family)
+botanial_name: Solanum lycopersicum
+wikipedia_en: https://en.wikipedia.org/wiki/Tomato
+culinary_use: Fruiting Veg
+common_names:
+  en: tomato
+  pt: tomate
+  sv: tomat
+ph_low: 5.5
+ph_high: 6.5
+ec_ms_low: 2.0
+ec_ms_high: 5.0
+temp_c_low: 14.0
+temp_c_high: 26.0
+height_cm_low: 30
+height_cm_high: 300
+spread_cm_low: 45
+spread_cm_high: 60
+maturity_days_low: 120
+maturity_days_high: 165

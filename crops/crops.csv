@@ -1,0 +1,3 @@
+title,botanical_family,botanial_name,wikipedia_en,culinary_use,ph_low,ph_high,ec_ms_low,ec_ms_high,temp_c_low,temp_c_high,height_cm_low,height_cm_high,spread_cm_low,spread_cm_high,maturity_days_low,maturity_days_high
+Lettuce,Asteraceae (Daisy family),Lactuca sativa,https://en.wikipedia.org/wiki/Lettuce,Leaf Veg,5.5,6.2,0.8,2.0,7.2,21.1,15,30,25,45,30,60
+Tomato,Solanaceae (Nightshade family),Solanum lycopersicum,https://en.wikipedia.org/wiki/Tomato,Fruiting Veg,5.5,6.5,2.0,5.0,14.0,26.0,30,300,45,60,120,165

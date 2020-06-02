@@ -1,0 +1,21 @@
+title: Lettuce
+botanical_family: Asteraceae (Daisy family)
+botanial_name: Lactuca sativa
+wikipedia_en: https://en.wikipedia.org/wiki/Lettuce
+culinary_use: Leaf Veg
+common_names:
+  en: tomato
+  pt: alface
+  sv: sallat
+ph_low: 5.5
+ph_high: 6.2
+ec_ms_low: 0.8
+ec_ms_high: 2.0
+temp_c_low: 7.2
+temp_c_high: 21.1
+height_cm_low: 15
+height_cm_high: 30
+spread_cm_low: 25
+spread_cm_high: 45
+maturity_days_low: 30
+maturity_days_high: 60

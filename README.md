@@ -232,10 +232,10 @@ Soil pH is highly important as it affects the bioavailability of nutrients to pl
 
 ### 🤎 Soil
 
-Soil can be understood from three simultaneous perspectives:
+Soil is best understood from three perspectives simultaneously:
 
 * **Physically**: Soil is a mixture of solids, liquids, and gases: typically 50% water, dissolved minerals, and various gases held in [pores](https://en.wikipedia.org/wiki/Pore_space_in_soil), 45% inorganic particles (sand, silt, and clay), and 5% organic matter ("[soil organic matter](https://en.wikipedia.org/wiki/Soil_organic_matter)"). *[Soil texture](https://en.wikipedia.org/wiki/Soil_texture)* is determined by the exact proportion of sand (most coarse), silt, and clay (most fine) particles.
-* **Chemically**: Soil is effective an aqueous solution containing dissolved minerals (nutrients) along with organic and inorganic particles. The particles commonly have negative charges, which attract nutrients with positive charges (cations). This allows the soil to hold and release certain nutrients. The nutrient holding capacity of a soil is called the [cation-exchange capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
+* **Chemically**: Soil is effective an aqueous solution containing dissolved minerals (nutrients) along with organic and inorganic particles. The particles commonly have negative charges, which attract nutrients with positive charges (cations). This allows the soil to hold and release certain nutrients. The holding capacity of a soil is called the [cation-exchange capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
 
 * **Biologically**: Soil is an ecosystem of microbes, including bacteria and mycorrhizal fungi. See Jeff Lowenfels, _Teaming with Microbes: The Organic Gardener’s Guide to The Soil Food Web_ and _Teaming With Fungi: The Organic Grower’s Guide to Mycorrhizae_
 
@@ -244,7 +244,7 @@ Soil can be understood from three simultaneous perspectives:
 
 TBD
 
-* https://en.wikipedia.org/wiki/Hard_water
+* http://blog.zipgrow.com/carbonates-in-aquaponics/
 
 
 ## 🔢 Data
