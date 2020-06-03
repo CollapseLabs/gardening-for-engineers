@@ -1,0 +1,19 @@
+botanial_name: Cucumis sativus
+botanical_family: Cucurbitaceae
+botanical_family_en: Gourd family
+culinary_use: Fruiting Veg
+common_name_key: CUCUMIS_SATIVUS
+wikipedia_en: https://en.wikipedia.org/wiki/Cucumber
+
+ph_low: 5.5
+ph_high: 6.0
+ec_ms_low: 2.2
+ec_ms_high: 2.7
+temp_c_low: 20.0
+temp_c_high: 25.6
+height_cm_low: 200
+height_cm_high: 300
+spread_cm_low: 70
+spread_cm_high: 100
+maturity_days_low: 90
+maturity_days_high: 150

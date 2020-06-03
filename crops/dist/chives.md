@@ -32,8 +32,6 @@ Key|Value
 `maturity_days_high`|None
 
 
-# Chives
-
 ## References
 
 * https://university.upstartfarmers.com/blog/the-quick-reference-guide-for-hydroponic-farmers

@@ -1,9 +1,25 @@
-botanial_name,botanical_family,botanical_family_en,culinary_use,wikipedia_en,ph_low,ph_high,ec_ms_low,ec_ms_high,temp_c_low,temp_c_high,height_cm_low,height_cm_high,spread_cm_low,spread_cm_high,maturity_days_low,maturity_days_high
-Lactuca sativa,Asteraceae,Daisy family,Leaf Veg,https://en.wikipedia.org/wiki/Lettuce,5.5,6.2,0.8,2.0,7.2,21.1,15,30,25,45,30,60
-Allium schoenoprasum,Amaryllidaceae,Amaryllis family,Herb,https://en.wikipedia.org/wiki/Chives,6.1,6.8,1.8,1.2,18.3,26.7,,,,,,
-Mentha spicata,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Spearmint,6.5,7.0,2.2,2.6,12.8,21.1,,,,,,
-Solanum lycopersicum,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Tomato,5.5,6.5,2.0,5.0,14.0,26.0,30,300,45,60,120,165
-Eruca vesicaria,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Eruca_vesicaria,6.0,7.5,0.8,1.2,10.0,18.3,7.5,7.5,15,15,50,50
-Ocimum basilicum,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Basil,6.2,6.8,1.6,2.2,18.3,35.0,,,,,,
-Brassica oleracea var. acephala,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Kale,6.0,7.5,1.8,3.0,7.2,28.9,50,75,50,75,90,150
-Brassica rapa var. chinensis,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Bok_choy,,,,,,,,,,,,
+crop_id,botanial_name,botanical_family,botanical_family_en,culinary_use,wikipedia_en,ph_low,ph_high,ec_ms_low,ec_ms_high,temp_c_low,temp_c_high,height_cm_low,height_cm_high,spread_cm_low,spread_cm_high,maturity_days_low,maturity_days_high
+arugula,Eruca vesicaria,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Eruca_vesicaria,6.0,7.5,0.8,1.2,10.0,18.3,7.5,7.5,15,15,50,50
+basil,Ocimum basilicum,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Basil,6.2,6.8,1.6,2.2,18.3,35.0,,,,,,
+beet,Beta vulgaris subsp. vulgaris,Amaranthaceae,Amaranth family,Root Veg,https://en.wikipedia.org/wiki/Beetroot,,,,,,,25,80,20,35,70,70
+bokchoy,Brassica rapa var. chinensis,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Bok_choy,6.0,7.5,1.5,2.5,12.8,23.9,,,,,,
+brusselsprout,Brassica oleracea var. gemmifera,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Brussels_sprout,,,,,,,70,70,60,60,210,210
+carrot,Daucus carota var. sativus,Apiaceae,Parsley family,Root Veg,https://en.wikipedia.org/wiki/Carrot,,,,,,,25,30,30,35,60,150
+chard,Beta vulgaris subsp. cicla,Amaranthaceae,Amaranth family,Leaf Veg,https://en.wikipedia.org/wiki/Chard,,,,,,,20,40,30,45,60,60
+chives,Allium schoenoprasum,Amaryllidaceae,Amaryllis family,Herb,https://en.wikipedia.org/wiki/Chives,6.1,6.8,1.8,1.2,18.3,26.7,,,,,,
+cucumber,Cucumis sativus,Cucurbitaceae,Gourd family,Fruiting Veg,https://en.wikipedia.org/wiki/Cucumber,5.5,6.0,2.2,2.7,20.0,25.6,200,300,70,100,90,150
+dill,Anethum graveolens,Apiaceae,Parsley family,Herb,https://en.wikipedia.org/wiki/Dill,,,,,,,,,,,,
+eggplant,Solanum melongena,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Eggplant,,,,,,,100,100,50,50,150,150
+kale,Brassica oleracea var. acephala,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Kale,6.0,7.5,1.8,3.0,7.2,28.9,50,75,50,75,90,150
+lettuce,Lactuca sativa,Asteraceae,Daisy family,Leaf Veg,https://en.wikipedia.org/wiki/Lettuce,5.5,6.2,0.8,2.0,7.2,21.1,15,30,25,45,30,60
+mint,Mentha spicata,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Spearmint,6.5,7.0,2.2,2.6,12.8,21.1,,,,,,
+parsley,Petroselinum crispum,Apiaceae,Parsley family,Herb,https://en.wikipedia.org/wiki/Parsley,,,,,,,,,,,,
+pea,Pisum sativum,Fabaceae,Legume family,Legume,https://en.wikipedia.org/wiki/Pea,,,,,,,50,120,50,80,60,70
+pepper,Capsicum annuum,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Capsicum_annuum,,,,,,,50,150,45,80,120,165
+potato,Solanum tuberosum,Solanaceae,Nightshade family,Root Veg,https://en.wikipedia.org/wiki/Potato,,,,,,,,,,,,
+radish,Raphanus sativus var. sativus,Brassicaceae,Mustard family,Root Veg,https://en.wikipedia.org/wiki/Radish,,,,,,,10,30,20,20,35,35
+savoycabbage,Brassica oleracea var. sabauda,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Savoy_cabbage,,,,,,,,,,,,
+spinach,Spinacia oleracea,Amaranthaceae,Amaranth family,Leaf Veg,https://en.wikipedia.org/wiki/Spinach,5.5,6.5,2.0,2.5,15.6,21.1,15,25,15,30,60,60
+strawberry,Fragaria × ananassa,Rosaceae,Rose family,Fruit,https://en.wikipedia.org/wiki/Strawberry,,,,,,,20,25,25,35,150,150
+tomato,Solanum lycopersicum,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Tomato,5.5,6.5,2.0,5.0,14.0,26.0,30,300,45,60,120,165
+zucchini,Cucurbita pepo,Cucurbitaceae,Gourd family,Fruiting Veg,https://en.wikipedia.org/wiki/Zucchini,,,,,,,,,,,,

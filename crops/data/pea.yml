@@ -1,0 +1,19 @@
+botanial_name: Pisum sativum
+botanical_family: Fabaceae
+botanical_family_en: Legume family
+culinary_use: Legume
+common_name_key: PISUM_SATIVUM
+wikipedia_en: https://en.wikipedia.org/wiki/Pea
+
+ph_low: 
+ph_high: 
+ec_ms_low: 
+ec_ms_high: 
+temp_c_low: 
+temp_c_high: 
+height_cm_low: 50
+height_cm_high: 120
+spread_cm_low: 50
+spread_cm_high: 80
+maturity_days_low: 60
+maturity_days_high: 70

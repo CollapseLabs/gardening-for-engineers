@@ -1,5 +1,3 @@
-# Potato
-
 ## References
 
 * https://www.yara.us/crop-nutrition/potato/

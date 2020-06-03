@@ -5,12 +5,12 @@ culinary_use: Leaf Veg
 common_name_key: BRASSICA_RAPA_CHINENSIS
 wikipedia_en: https://en.wikipedia.org/wiki/Bok_choy
 
-ph_low: 
-ph_high: 
-ec_ms_low: 
-ec_ms_high: 
-temp_c_low: 
-temp_c_high: 
+ph_low: 6.0
+ph_high: 7.5
+ec_ms_low: 1.5
+ec_ms_high: 2.5
+temp_c_low: 12.8
+temp_c_high: 23.9
 height_cm_low: 
 height_cm_high: 
 spread_cm_low: 

@@ -1,0 +1,19 @@
+botanial_name: Fragaria × ananassa
+botanical_family: Rosaceae
+botanical_family_en: Rose family
+culinary_use: Fruit
+common_name_key: FRAGARIA_ANANASSA
+wikipedia_en: https://en.wikipedia.org/wiki/Strawberry
+
+ph_low: 
+ph_high: 
+ec_ms_low: 
+ec_ms_high: 
+temp_c_low: 
+temp_c_high: 
+height_cm_low: 20
+height_cm_high: 25
+spread_cm_low: 25
+spread_cm_high: 35
+maturity_days_low: 150
+maturity_days_high: 150

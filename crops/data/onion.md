@@ -1,5 +1,3 @@
-# Onion
-
 ## References
 
 * https://www.yara.us/crop-nutrition/onion/

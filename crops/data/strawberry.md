@@ -1,5 +1,3 @@
-# Strawberry
-
 ## References
 
 * https://www.yara.us/crop-nutrition/strawberry/

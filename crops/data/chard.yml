@@ -1,0 +1,19 @@
+botanial_name: Beta vulgaris subsp. cicla
+botanical_family: Amaranthaceae
+botanical_family_en: Amaranth family
+culinary_use: Leaf Veg
+common_name_key: BETA_VULGARIS_CICLA
+wikipedia_en: https://en.wikipedia.org/wiki/Chard
+
+ph_low: 
+ph_high: 
+ec_ms_low: 
+ec_ms_high: 
+temp_c_low: 
+temp_c_high: 
+height_cm_low: 20
+height_cm_high: 40
+spread_cm_low: 30
+spread_cm_high: 45
+maturity_days_low: 60
+maturity_days_high: 60
