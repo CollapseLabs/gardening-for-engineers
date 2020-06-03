@@ -13,6 +13,7 @@ Optimal Temperature | 14–26°C | Upstart University [2]
 
 * [1] http://howardresh.com/dr-howard-resh-hydroponic-services/hydroponic-tomatoes/
 * [2] https://university.upstartfarmers.com/blog/hydroponic-tomatoes
+* https://university.upstartfarmers.com/blog/the-quick-reference-guide-for-hydroponic-farmers
 * https://www.yara.us/crop-nutrition/tomato/
 * https://www.haifa-group.com/tomato-fertilizer
 * http://www.gardening.cornell.edu/homegardening/sceneea10.html

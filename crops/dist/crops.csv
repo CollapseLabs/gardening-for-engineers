@@ -1,0 +1,9 @@
+botanial_name,botanical_family,botanical_family_en,culinary_use,wikipedia_en,ph_low,ph_high,ec_ms_low,ec_ms_high,temp_c_low,temp_c_high,height_cm_low,height_cm_high,spread_cm_low,spread_cm_high,maturity_days_low,maturity_days_high
+Lactuca sativa,Asteraceae,Daisy family,Leaf Veg,https://en.wikipedia.org/wiki/Lettuce,5.5,6.2,0.8,2.0,7.2,21.1,15,30,25,45,30,60
+Allium schoenoprasum,Amaryllidaceae,Amaryllis family,Herb,https://en.wikipedia.org/wiki/Chives,6.1,6.8,1.8,1.2,18.3,26.7,,,,,,
+Mentha spicata,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Spearmint,6.5,7.0,2.2,2.6,12.8,21.1,,,,,,
+Solanum lycopersicum,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Tomato,5.5,6.5,2.0,5.0,14.0,26.0,30,300,45,60,120,165
+Eruca vesicaria,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Eruca_vesicaria,6.0,7.5,0.8,1.2,10.0,18.3,7.5,7.5,15,15,50,50
+Ocimum basilicum,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Basil,6.2,6.8,1.6,2.2,18.3,35.0,,,,,,
+Brassica oleracea var. acephala,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Kale,6.0,7.5,1.8,3.0,7.2,28.9,50,75,50,75,90,150
+Brassica rapa var. chinensis,Brassicaceae,Mustard family,Leaf Veg,https://en.wikipedia.org/wiki/Bok_choy,,,,,,,,,,,,

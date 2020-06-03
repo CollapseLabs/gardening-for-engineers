@@ -1,12 +1,10 @@
-title: Tomato
-botanical_family: Solanaceae (Nightshade family)
 botanial_name: Solanum lycopersicum
-wikipedia_en: https://en.wikipedia.org/wiki/Tomato
+botanical_family: Solanaceae
+botanical_family_en: Nightshade family
 culinary_use: Fruiting Veg
-common_names:
-  en: tomato
-  pt: tomate
-  sv: tomat
+common_name_key: SOLANUM_LYCOPERSICUM
+wikipedia_en: https://en.wikipedia.org/wiki/Tomato
+
 ph_low: 5.5
 ph_high: 6.5
 ec_ms_low: 2.0

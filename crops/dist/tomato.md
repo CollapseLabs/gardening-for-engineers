@@ -5,18 +5,19 @@
 Language|String
 -|-
 `en`|tomato
-`pt`|tomate
 `sv`|tomat
+`pt`|tomate
 
 
 ## Data
 
 Key|Value
 -|-
-`botanical_family`|Solanaceae (Nightshade family)
 `botanial_name`|Solanum lycopersicum
-`wikipedia_en`|https://en.wikipedia.org/wiki/Tomato
+`botanical_family`|Solanaceae
+`botanical_family_en`|Nightshade family
 `culinary_use`|Fruiting Veg
+`wikipedia_en`|https://en.wikipedia.org/wiki/Tomato
 `ph_low`|5.5
 `ph_high`|6.5
 `ec_ms_low`|2.0
@@ -46,6 +47,7 @@ Optimal Temperature | 14–26°C | Upstart University [2]
 
 * [1] http://howardresh.com/dr-howard-resh-hydroponic-services/hydroponic-tomatoes/
 * [2] https://university.upstartfarmers.com/blog/hydroponic-tomatoes
+* https://university.upstartfarmers.com/blog/the-quick-reference-guide-for-hydroponic-farmers
 * https://www.yara.us/crop-nutrition/tomato/
 * https://www.haifa-group.com/tomato-fertilizer
 * http://www.gardening.cornell.edu/homegardening/sceneea10.html

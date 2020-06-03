@@ -4,19 +4,20 @@
 
 Language|String
 -|-
-`en`|tomato
-`pt`|alface
+`en`|lettuce
 `sv`|sallat
+`pt`|alface
 
 
 ## Data
 
 Key|Value
 -|-
-`botanical_family`|Asteraceae (Daisy family)
 `botanial_name`|Lactuca sativa
-`wikipedia_en`|https://en.wikipedia.org/wiki/Lettuce
+`botanical_family`|Asteraceae
+`botanical_family_en`|Daisy family
 `culinary_use`|Leaf Veg
+`wikipedia_en`|https://en.wikipedia.org/wiki/Lettuce
 `ph_low`|5.5
 `ph_high`|6.2
 `ec_ms_low`|0.8
