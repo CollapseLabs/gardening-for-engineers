@@ -1,0 +1,20 @@
+botanial_name: Citrullus lanatus
+botanical_family: Cucurbitaceae
+botanical_family_en: Gourd family
+culinary_use: Fruit
+common_name_key: CITRULLUS_LANATUS
+wikipedia_en: https://en.wikipedia.org/wiki/Watermelon
+
+temp_c_min: 
+temp_c_max: 
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 300
+height_cm_max: 300
+spread_cm_min: 40
+spread_cm_max: 40
+maturity_days_min: 120
+maturity_days_max: 120

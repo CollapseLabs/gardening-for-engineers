@@ -1,19 +1,20 @@
 botanial_name: Beta vulgaris subsp. vulgaris
 botanical_family: Amaranthaceae
 botanical_family_en: Amaranth family
-culinary_use: Root Veg
+culinary_use: Root
 common_name_key: BETA_VULGARIS_VULGARIS
 wikipedia_en: https://en.wikipedia.org/wiki/Beetroot
 
-ph_low: 
-ph_high: 
-ec_ms_low: 
-ec_ms_high: 
-temp_c_low: 
-temp_c_high: 
-height_cm_low: 25
-height_cm_high: 80
-spread_cm_low: 20
-spread_cm_high: 35
-maturity_days_low: 70
-maturity_days_high: 70
+temp_c_min: 
+temp_c_max: 
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 25
+height_cm_max: 80
+spread_cm_min: 20
+spread_cm_max: 35
+maturity_days_min: 70
+maturity_days_max: 70

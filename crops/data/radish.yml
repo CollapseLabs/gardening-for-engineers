@@ -1,19 +1,20 @@
 botanial_name: Raphanus sativus var. sativus
 botanical_family: Brassicaceae
 botanical_family_en: Mustard family
-culinary_use: Root Veg
+culinary_use: Root
 common_name_key: RAPHANUS_SATIVUS_SATIVUS
 wikipedia_en: https://en.wikipedia.org/wiki/Radish
 
-ph_low: 
-ph_high: 
-ec_ms_low: 
-ec_ms_high: 
-temp_c_low: 
-temp_c_high: 
-height_cm_low: 10
-height_cm_high: 30
-spread_cm_low: 20
-spread_cm_high: 20
-maturity_days_low: 35
-maturity_days_high: 35
+temp_c_min: 
+temp_c_max: 
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 10
+height_cm_max: 30
+spread_cm_min: 20
+spread_cm_max: 20
+maturity_days_min: 35
+maturity_days_max: 35

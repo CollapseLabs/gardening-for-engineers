@@ -18,18 +18,18 @@ Key|Value
 `botanical_family_en`|Mint family
 `culinary_use`|Herb
 `wikipedia_en`|https://en.wikipedia.org/wiki/Basil
-`ph_low`|6.2
-`ph_high`|6.8
-`ec_ms_low`|1.6
-`ec_ms_high`|2.2
-`temp_c_low`|18.3
-`temp_c_high`|35.0
-`height_cm_low`|None
-`height_cm_high`|None
-`spread_cm_low`|None
-`spread_cm_high`|None
-`maturity_days_low`|None
-`maturity_days_high`|None
+`temp_c_min`|18.5
+`temp_c_max`|35.0
+`ph_min`|6.2
+`ph_max`|6.8
+`ec_ms_min`|1.6
+`ec_ms_max`|2.2
+`height_cm_min`|None
+`height_cm_max`|None
+`spread_cm_min`|None
+`spread_cm_max`|None
+`maturity_days_min`|None
+`maturity_days_max`|None
 
 
 ## References

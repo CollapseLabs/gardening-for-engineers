@@ -16,19 +16,19 @@ Key|Value
 `botanial_name`|Raphanus sativus var. sativus
 `botanical_family`|Brassicaceae
 `botanical_family_en`|Mustard family
-`culinary_use`|Root Veg
+`culinary_use`|Root
 `wikipedia_en`|https://en.wikipedia.org/wiki/Radish
-`ph_low`|None
-`ph_high`|None
-`ec_ms_low`|None
-`ec_ms_high`|None
-`temp_c_low`|None
-`temp_c_high`|None
-`height_cm_low`|10
-`height_cm_high`|30
-`spread_cm_low`|20
-`spread_cm_high`|20
-`maturity_days_low`|35
-`maturity_days_high`|35
+`temp_c_min`|None
+`temp_c_max`|None
+`ph_min`|None
+`ph_max`|None
+`ec_ms_min`|None
+`ec_ms_max`|None
+`height_cm_min`|10
+`height_cm_max`|30
+`spread_cm_min`|20
+`spread_cm_max`|20
+`maturity_days_min`|35
+`maturity_days_max`|35
 
 

@@ -1,19 +1,20 @@
 botanial_name: Brassica oleracea var. gemmifera
 botanical_family: Brassicaceae
 botanical_family_en: Mustard family
-culinary_use: Leaf Veg
+culinary_use: Leaf/Stem
 common_name_key: BRASSICA_OLERACEA_GEMMIFERA
 wikipedia_en: https://en.wikipedia.org/wiki/Brussels_sprout
 
-ph_low: 
-ph_high: 
-ec_ms_low: 
-ec_ms_high: 
-temp_c_low: 
-temp_c_high: 
-height_cm_low: 70
-height_cm_high: 70
-spread_cm_low: 60
-spread_cm_high: 60
-maturity_days_low: 210
-maturity_days_high: 210
+temp_c_min: 
+temp_c_max: 
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 70
+height_cm_max: 70
+spread_cm_min: 60
+spread_cm_max: 60
+maturity_days_min: 210
+maturity_days_max: 210

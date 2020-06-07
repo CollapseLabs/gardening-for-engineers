@@ -20,17 +20,17 @@ Key|Value
 `botanical_family_en`|Nightshade family
 `culinary_use`|Fruiting Veg
 `wikipedia_en`|https://en.wikipedia.org/wiki/Eggplant
-`ph_low`|None
-`ph_high`|None
-`ec_ms_low`|None
-`ec_ms_high`|None
-`temp_c_low`|None
-`temp_c_high`|None
-`height_cm_low`|100
-`height_cm_high`|100
-`spread_cm_low`|50
-`spread_cm_high`|50
-`maturity_days_low`|150
-`maturity_days_high`|150
+`temp_c_min`|None
+`temp_c_max`|None
+`ph_min`|None
+`ph_max`|None
+`ec_ms_min`|None
+`ec_ms_max`|None
+`height_cm_min`|100
+`height_cm_max`|100
+`spread_cm_min`|50
+`spread_cm_max`|50
+`maturity_days_min`|150
+`maturity_days_max`|150
 
 

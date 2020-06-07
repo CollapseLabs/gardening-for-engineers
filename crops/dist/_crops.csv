@@ -1,0 +1,29 @@
+crop_id,botanial_name,botanical_family,botanical_family_en,culinary_use,wikipedia_en,temp_c_min,temp_c_max,ph_min,ph_max,ec_ms_min,ec_ms_max,height_cm_min,height_cm_max,spread_cm_min,spread_cm_max,maturity_days_min,maturity_days_max
+strawberry,Fragaria × ananassa,Rosaceae,Rose family,Fruit,https://en.wikipedia.org/wiki/Strawberry,,,,,,,20,25,25,35,150,150
+watermelon,Citrullus lanatus,Cucurbitaceae,Gourd family,Fruit,https://en.wikipedia.org/wiki/Watermelon,,,,,,,300,300,40,40,120,120
+cucumber,Cucumis sativus,Cucurbitaceae,Gourd family,Fruiting Veg,https://en.wikipedia.org/wiki/Cucumber,20.0,25.5,5.5,6.0,2.2,2.7,200,300,70,100,90,150
+eggplant,Solanum melongena,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Eggplant,,,,,,,100,100,50,50,150,150
+pepper,Capsicum annuum,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Capsicum_annuum,15.5,26.0,,,,,50,150,45,80,120,165
+tomato,Solanum lycopersicum,Solanaceae,Nightshade family,Fruiting Veg,https://en.wikipedia.org/wiki/Tomato,14.0,26.0,5.5,6.5,2.0,5.0,30,300,45,60,120,165
+zucchini,Cucurbita pepo,Cucurbitaceae,Gourd family,Fruiting Veg,https://en.wikipedia.org/wiki/Zucchini,,,,,,,,,,,,
+basil,Ocimum basilicum,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Basil,18.5,35.0,6.2,6.8,1.6,2.2,,,,,,
+chives,Allium schoenoprasum,Amaryllidaceae,Amaryllis family,Herb,https://en.wikipedia.org/wiki/Chives,18.5,26.5,6.1,6.8,1.8,1.2,,,,,,
+dill,Anethum graveolens,Apiaceae,Parsley family,Herb,https://en.wikipedia.org/wiki/Dill,,,,,,,,,,,,
+mint,Mentha spicata,Lamiaceae,Mint family,Herb,https://en.wikipedia.org/wiki/Spearmint,13.0,21.0,6.5,7.0,2.2,2.6,,,,,,
+parsley,Petroselinum crispum,Apiaceae,Parsley family,Herb,https://en.wikipedia.org/wiki/Parsley,,,,,,,,,,,,
+arugula,Eruca vesicaria,Brassicaceae,Mustard family,Leaf/Stem,https://en.wikipedia.org/wiki/Eruca_vesicaria,10.0,18.5,6.0,7.5,0.8,1.2,7.5,7.5,15,15,50,50
+bokchoy,Brassica rapa var. chinensis,Brassicaceae,Mustard family,Leaf/Stem,https://en.wikipedia.org/wiki/Bok_choy,13.0,24.0,6.0,7.5,1.5,2.5,,,,,,
+brusselsprout,Brassica oleracea var. gemmifera,Brassicaceae,Mustard family,Leaf/Stem,https://en.wikipedia.org/wiki/Brussels_sprout,,,,,,,70,70,60,60,210,210
+chard,Beta vulgaris subsp. cicla,Amaranthaceae,Amaranth family,Leaf/Stem,https://en.wikipedia.org/wiki/Chard,,,,,,,20,40,30,45,60,60
+kale,Brassica oleracea var. acephala,Brassicaceae,Mustard family,Leaf/Stem,https://en.wikipedia.org/wiki/Kale,7.0,29.0,6.0,7.5,1.8,3.0,50,75,50,75,90,150
+lettuce,Lactuca sativa,Asteraceae,Daisy family,Leaf/Stem,https://en.wikipedia.org/wiki/Lettuce,7.0,21.0,5.5,6.2,0.8,2.0,15,30,25,45,30,60
+savoycabbage,Brassica oleracea var. sabauda,Brassicaceae,Mustard family,Leaf/Stem,https://en.wikipedia.org/wiki/Savoy_cabbage,,,,,,,,,,,,
+spinach,Spinacia oleracea,Amaranthaceae,Amaranth family,Leaf/Stem,https://en.wikipedia.org/wiki/Spinach,15.5,21.0,5.5,6.5,2.0,2.5,15,25,15,30,60,60
+broadbean,Vicia faba,Fabaceae,Legume family,Legume,https://en.wikipedia.org/wiki/Vicia_faba,,,,,,,50,50,80,80,90,90
+commonbean_bush,Phaseolus vulgaris,Fabaceae,Legume family,Legume,https://en.wikipedia.org/wiki/Phaseolus_vulgaris,,,,,,,25,80,10,45,60,70
+commonbean_pole,Phaseolus vulgaris,Fabaceae,Legume family,Legume,https://en.wikipedia.org/wiki/Phaseolus_vulgaris,,,,,,,200,200,80,80,60,70
+pea,Pisum sativum,Fabaceae,Legume family,Legume,https://en.wikipedia.org/wiki/Pea,,,,,,,50,120,50,80,60,70
+beet,Beta vulgaris subsp. vulgaris,Amaranthaceae,Amaranth family,Root,https://en.wikipedia.org/wiki/Beetroot,,,,,,,25,80,20,35,70,70
+carrot,Daucus carota var. sativus,Apiaceae,Parsley family,Root,https://en.wikipedia.org/wiki/Carrot,,,,,,,25,30,30,35,60,150
+potato,Solanum tuberosum,Solanaceae,Nightshade family,Root,https://en.wikipedia.org/wiki/Potato,,,,,,,,,,,,
+radish,Raphanus sativus var. sativus,Brassicaceae,Mustard family,Root,https://en.wikipedia.org/wiki/Radish,,,,,,,10,30,20,20,35,35

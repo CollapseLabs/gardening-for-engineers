@@ -17,19 +17,19 @@ Key|Value
 `botanial_name`|Beta vulgaris subsp. vulgaris
 `botanical_family`|Amaranthaceae
 `botanical_family_en`|Amaranth family
-`culinary_use`|Root Veg
+`culinary_use`|Root
 `wikipedia_en`|https://en.wikipedia.org/wiki/Beetroot
-`ph_low`|None
-`ph_high`|None
-`ec_ms_low`|None
-`ec_ms_high`|None
-`temp_c_low`|None
-`temp_c_high`|None
-`height_cm_low`|25
-`height_cm_high`|80
-`spread_cm_low`|20
-`spread_cm_high`|35
-`maturity_days_low`|70
-`maturity_days_high`|70
+`temp_c_min`|None
+`temp_c_max`|None
+`ph_min`|None
+`ph_max`|None
+`ec_ms_min`|None
+`ec_ms_max`|None
+`height_cm_min`|25
+`height_cm_max`|80
+`spread_cm_min`|20
+`spread_cm_max`|35
+`maturity_days_min`|70
+`maturity_days_max`|70
 
 

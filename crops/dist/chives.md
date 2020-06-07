@@ -18,18 +18,18 @@ Key|Value
 `botanical_family_en`|Amaryllis family
 `culinary_use`|Herb
 `wikipedia_en`|https://en.wikipedia.org/wiki/Chives
-`ph_low`|6.1
-`ph_high`|6.8
-`ec_ms_low`|1.8
-`ec_ms_high`|1.2
-`temp_c_low`|18.3
-`temp_c_high`|26.7
-`height_cm_low`|None
-`height_cm_high`|None
-`spread_cm_low`|None
-`spread_cm_high`|None
-`maturity_days_low`|None
-`maturity_days_high`|None
+`temp_c_min`|18.5
+`temp_c_max`|26.5
+`ph_min`|6.1
+`ph_max`|6.8
+`ec_ms_min`|1.8
+`ec_ms_max`|1.2
+`height_cm_min`|None
+`height_cm_max`|None
+`spread_cm_min`|None
+`spread_cm_max`|None
+`maturity_days_min`|None
+`maturity_days_max`|None
 
 
 ## References

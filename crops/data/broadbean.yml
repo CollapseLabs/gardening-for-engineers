@@ -1,9 +1,9 @@
-botanial_name: Pisum sativum
+botanial_name: Vicia faba
 botanical_family: Fabaceae
 botanical_family_en: Legume family
 culinary_use: Legume
-common_name_key: PISUM_SATIVUM
-wikipedia_en: https://en.wikipedia.org/wiki/Pea
+common_name_key: VICIA_FABA
+wikipedia_en: https://en.wikipedia.org/wiki/Vicia_faba
 
 temp_c_min: 
 temp_c_max: 
@@ -13,8 +13,8 @@ ec_ms_min:
 ec_ms_max: 
 
 height_cm_min: 50
-height_cm_max: 120
-spread_cm_min: 50
+height_cm_max: 50
+spread_cm_min: 80
 spread_cm_max: 80
-maturity_days_min: 60
-maturity_days_max: 70
+maturity_days_min: 90
+maturity_days_max: 90

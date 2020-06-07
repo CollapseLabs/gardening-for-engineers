@@ -16,19 +16,19 @@ Key|Value
 `botanial_name`|Daucus carota var. sativus
 `botanical_family`|Apiaceae
 `botanical_family_en`|Parsley family
-`culinary_use`|Root Veg
+`culinary_use`|Root
 `wikipedia_en`|https://en.wikipedia.org/wiki/Carrot
-`ph_low`|None
-`ph_high`|None
-`ec_ms_low`|None
-`ec_ms_high`|None
-`temp_c_low`|None
-`temp_c_high`|None
-`height_cm_low`|25
-`height_cm_high`|30
-`spread_cm_low`|30
-`spread_cm_high`|35
-`maturity_days_low`|60
-`maturity_days_high`|150
+`temp_c_min`|None
+`temp_c_max`|None
+`ph_min`|None
+`ph_max`|None
+`ec_ms_min`|None
+`ec_ms_max`|None
+`height_cm_min`|25
+`height_cm_max`|30
+`spread_cm_min`|30
+`spread_cm_max`|35
+`maturity_days_min`|60
+`maturity_days_max`|150
 
 

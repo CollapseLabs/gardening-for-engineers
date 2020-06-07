@@ -1,0 +1,20 @@
+botanial_name: Phaseolus vulgaris
+botanical_family: Fabaceae
+botanical_family_en: Legume family
+culinary_use: Legume
+common_name_key: PHASEOLUS_VULGARIS_BUSH
+wikipedia_en: https://en.wikipedia.org/wiki/Phaseolus_vulgaris
+
+temp_c_min: 
+temp_c_max: 
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 25
+height_cm_max: 80
+spread_cm_min: 10
+spread_cm_max: 45
+maturity_days_min: 60
+maturity_days_max: 70

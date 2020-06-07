@@ -14,7 +14,8 @@ Air Temperature | 14–26°C | Upstart University [2]
 * [1] http://howardresh.com/dr-howard-resh-hydroponic-services/hydroponic-tomatoes/
 * [2] https://university.upstartfarmers.com/blog/hydroponic-tomatoes
 * https://university.upstartfarmers.com/blog/the-quick-reference-guide-for-hydroponic-farmers
+* http://www.gardening.cornell.edu/homegardening/sceneea10.html
 * https://www.yara.us/crop-nutrition/tomato/
 * https://www.haifa-group.com/tomato-fertilizer
-* http://www.gardening.cornell.edu/homegardening/sceneea10.html
+* https://www.ludvigsvensson.com/en/climate-screens/crop-tips/tomato-culture/
 * Redmond Ramin Shamshiri et al. "Review of optimum temperature, humidity, and vapour pressure deficit for microclimate evaluation and control in greenhouse cultivation of tomato: a review", February 16, 2018.

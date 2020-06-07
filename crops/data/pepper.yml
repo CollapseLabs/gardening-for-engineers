@@ -5,15 +5,16 @@ culinary_use: Fruiting Veg
 common_name_key: CAPSICUM_ANNUUM
 wikipedia_en: https://en.wikipedia.org/wiki/Capsicum_annuum
 
-ph_low: 
-ph_high: 
-ec_ms_low: 
-ec_ms_high: 
-temp_c_low: 
-temp_c_high: 
-height_cm_low: 50
-height_cm_high: 150
-spread_cm_low: 45
-spread_cm_high: 80
-maturity_days_low: 120
-maturity_days_high: 165
+temp_c_min: 15.5
+temp_c_max: 26.0
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 50
+height_cm_max: 150
+spread_cm_min: 45
+spread_cm_max: 80
+maturity_days_min: 120
+maturity_days_max: 165

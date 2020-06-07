@@ -5,15 +5,16 @@ culinary_use: Herb
 common_name_key: ANETHUM_GRAVEOLENS
 wikipedia_en: https://en.wikipedia.org/wiki/Dill
 
-ph_low: 
-ph_high: 
-ec_ms_low: 
-ec_ms_high: 
-temp_c_low: 
-temp_c_high: 
-height_cm_low: 
-height_cm_high: 
-spread_cm_low: 
-spread_cm_high: 
-maturity_days_low: 
-maturity_days_high: 
+temp_c_min: 
+temp_c_max: 
+ph_min: 
+ph_max: 
+ec_ms_min: 
+ec_ms_max: 
+
+height_cm_min: 
+height_cm_max: 
+spread_cm_min: 
+spread_cm_max: 
+maturity_days_min: 
+maturity_days_max: 

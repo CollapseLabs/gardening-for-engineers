@@ -18,18 +18,18 @@ Key|Value
 `botanical_family_en`|Rose family
 `culinary_use`|Fruit
 `wikipedia_en`|https://en.wikipedia.org/wiki/Strawberry
-`ph_low`|None
-`ph_high`|None
-`ec_ms_low`|None
-`ec_ms_high`|None
-`temp_c_low`|None
-`temp_c_high`|None
-`height_cm_low`|20
-`height_cm_high`|25
-`spread_cm_low`|25
-`spread_cm_high`|35
-`maturity_days_low`|150
-`maturity_days_high`|150
+`temp_c_min`|None
+`temp_c_max`|None
+`ph_min`|None
+`ph_max`|None
+`ec_ms_min`|None
+`ec_ms_max`|None
+`height_cm_min`|20
+`height_cm_max`|25
+`spread_cm_min`|25
+`spread_cm_max`|35
+`maturity_days_min`|150
+`maturity_days_max`|150
 
 
 ## References

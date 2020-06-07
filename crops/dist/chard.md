@@ -16,19 +16,19 @@ Key|Value
 `botanial_name`|Beta vulgaris subsp. cicla
 `botanical_family`|Amaranthaceae
 `botanical_family_en`|Amaranth family
-`culinary_use`|Leaf Veg
+`culinary_use`|Leaf/Stem
 `wikipedia_en`|https://en.wikipedia.org/wiki/Chard
-`ph_low`|None
-`ph_high`|None
-`ec_ms_low`|None
-`ec_ms_high`|None
-`temp_c_low`|None
-`temp_c_high`|None
-`height_cm_low`|20
-`height_cm_high`|40
-`spread_cm_low`|30
-`spread_cm_high`|45
-`maturity_days_low`|60
-`maturity_days_high`|60
+`temp_c_min`|None
+`temp_c_max`|None
+`ph_min`|None
+`ph_max`|None
+`ec_ms_min`|None
+`ec_ms_max`|None
+`height_cm_min`|20
+`height_cm_max`|40
+`spread_cm_min`|30
+`spread_cm_max`|45
+`maturity_days_min`|60
+`maturity_days_max`|60
 
 

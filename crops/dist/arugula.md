@@ -16,20 +16,20 @@ Key|Value
 `botanial_name`|Eruca vesicaria
 `botanical_family`|Brassicaceae
 `botanical_family_en`|Mustard family
-`culinary_use`|Leaf Veg
+`culinary_use`|Leaf/Stem
 `wikipedia_en`|https://en.wikipedia.org/wiki/Eruca_vesicaria
-`ph_low`|6.0
-`ph_high`|7.5
-`ec_ms_low`|0.8
-`ec_ms_high`|1.2
-`temp_c_low`|10.0
-`temp_c_high`|18.3
-`height_cm_low`|7.5
-`height_cm_high`|7.5
-`spread_cm_low`|15
-`spread_cm_high`|15
-`maturity_days_low`|50
-`maturity_days_high`|50
+`temp_c_min`|10.0
+`temp_c_max`|18.5
+`ph_min`|6.0
+`ph_max`|7.5
+`ec_ms_min`|0.8
+`ec_ms_max`|1.2
+`height_cm_min`|7.5
+`height_cm_max`|7.5
+`spread_cm_min`|15
+`spread_cm_max`|15
+`maturity_days_min`|50
+`maturity_days_max`|50
 
 
 ## References

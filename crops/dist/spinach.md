@@ -16,20 +16,20 @@ Key|Value
 `botanial_name`|Spinacia oleracea
 `botanical_family`|Amaranthaceae
 `botanical_family_en`|Amaranth family
-`culinary_use`|Leaf Veg
+`culinary_use`|Leaf/Stem
 `wikipedia_en`|https://en.wikipedia.org/wiki/Spinach
-`ph_low`|5.5
-`ph_high`|6.5
-`ec_ms_low`|2.0
-`ec_ms_high`|2.5
-`temp_c_low`|15.6
-`temp_c_high`|21.1
-`height_cm_low`|15
-`height_cm_high`|25
-`spread_cm_low`|15
-`spread_cm_high`|30
-`maturity_days_low`|60
-`maturity_days_high`|60
+`temp_c_min`|15.5
+`temp_c_max`|21.0
+`ph_min`|5.5
+`ph_max`|6.5
+`ec_ms_min`|2.0
+`ec_ms_max`|2.5
+`height_cm_min`|15
+`height_cm_max`|25
+`spread_cm_min`|15
+`spread_cm_max`|30
+`maturity_days_min`|60
+`maturity_days_max`|60
 
 
 ## Environmental Parameters

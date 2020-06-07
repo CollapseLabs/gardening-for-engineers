@@ -1,19 +1,20 @@
 botanial_name: Lactuca sativa
 botanical_family: Asteraceae
 botanical_family_en: Daisy family
-culinary_use: Leaf Veg
+culinary_use: Leaf/Stem
 common_name_key: LACTUCA_SATIVA
 wikipedia_en: https://en.wikipedia.org/wiki/Lettuce
 
-ph_low: 5.5
-ph_high: 6.2
-ec_ms_low: 0.8
-ec_ms_high: 2.0
-temp_c_low: 7.2
-temp_c_high: 21.1
-height_cm_low: 15
-height_cm_high: 30
-spread_cm_low: 25
-spread_cm_high: 45
-maturity_days_low: 30
-maturity_days_high: 60
+temp_c_min: 7.0
+temp_c_max: 21.0
+ph_min: 5.5
+ph_max: 6.2
+ec_ms_min: 0.8
+ec_ms_max: 2.0
+
+height_cm_min: 15
+height_cm_max: 30
+spread_cm_min: 25
+spread_cm_max: 45
+maturity_days_min: 30
+maturity_days_max: 60

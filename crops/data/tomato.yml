@@ -5,15 +5,16 @@ culinary_use: Fruiting Veg
 common_name_key: SOLANUM_LYCOPERSICUM
 wikipedia_en: https://en.wikipedia.org/wiki/Tomato
 
-ph_low: 5.5
-ph_high: 6.5
-ec_ms_low: 2.0
-ec_ms_high: 5.0
-temp_c_low: 14.0
-temp_c_high: 26.0
-height_cm_low: 30
-height_cm_high: 300
-spread_cm_low: 45
-spread_cm_high: 60
-maturity_days_low: 120
-maturity_days_high: 165
+temp_c_min: 14.0
+temp_c_max: 26.0
+ph_min: 5.5
+ph_max: 6.5
+ec_ms_min: 2.0
+ec_ms_max: 5.0
+
+height_cm_min: 30
+height_cm_max: 300
+spread_cm_min: 45
+spread_cm_max: 60
+maturity_days_min: 120
+maturity_days_max: 165

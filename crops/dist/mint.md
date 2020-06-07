@@ -17,18 +17,18 @@ Key|Value
 `botanical_family_en`|Mint family
 `culinary_use`|Herb
 `wikipedia_en`|https://en.wikipedia.org/wiki/Spearmint
-`ph_low`|6.5
-`ph_high`|7.0
-`ec_ms_low`|2.2
-`ec_ms_high`|2.6
-`temp_c_low`|12.8
-`temp_c_high`|21.1
-`height_cm_low`|None
-`height_cm_high`|None
-`spread_cm_low`|None
-`spread_cm_high`|None
-`maturity_days_low`|None
-`maturity_days_high`|None
+`temp_c_min`|13.0
+`temp_c_max`|21.0
+`ph_min`|6.5
+`ph_max`|7.0
+`ec_ms_min`|2.2
+`ec_ms_max`|2.6
+`height_cm_min`|None
+`height_cm_max`|None
+`spread_cm_min`|None
+`spread_cm_max`|None
+`maturity_days_min`|None
+`maturity_days_max`|None
 
 
 ## References

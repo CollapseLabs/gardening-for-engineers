@@ -19,3 +19,4 @@ Air Temperature | 24°C Day/19°C Night | Cornell University CEA [3]
 * [3] https://blogs.cornell.edu/cornellcea/files/2019/06/Cornell-CEA-Lettuce-Handbook-.pdf
 * https://www.yara.us/crop-nutrition/lettuce/
 * http://www.gardening.cornell.edu/homegardening/scene9aa6.html
+* https://www.ludvigsvensson.com/en/climate-screens/crop-tips/lettuce-culture/
