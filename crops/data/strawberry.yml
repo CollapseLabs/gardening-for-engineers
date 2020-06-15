@@ -3,14 +3,15 @@ botanical_family: Rosaceae
 botanical_family_en: Rose family
 culinary_use: Fruit
 common_name_key: FRAGARIA_ANANASSA
-wikipedia_en: https://en.wikipedia.org/wiki/Strawberry
+wikipedia_en_url: https://en.wikipedia.org/wiki/Strawberry
 
-temp_c_min: 
-temp_c_max: 
-ph_min: 
-ph_max: 
-ec_ms_min: 
-ec_ms_max: 
+temp_c_min: 18.3
+temp_c_max: 23.9
+temp_c_opt: 21.1
+ph_min: 5.5
+ph_max: 6.5
+ec_ms_min: 0.8
+ec_ms_max: 1.4
 
 height_cm_min: 20
 height_cm_max: 25

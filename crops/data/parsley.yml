@@ -3,14 +3,15 @@ botanical_family: Apiaceae
 botanical_family_en: Parsley family
 culinary_use: Herb
 common_name_key: PETROSELINUM_CRISPUM
-wikipedia_en: https://en.wikipedia.org/wiki/Parsley
+wikipedia_en_url: https://en.wikipedia.org/wiki/Parsley
 
-temp_c_min: 
-temp_c_max: 
-ph_min: 
-ph_max: 
-ec_ms_min: 
-ec_ms_max: 
+temp_c_min: 12.8
+temp_c_max: 26.7
+temp_c_opt: 21.1
+ph_min: 5.5
+ph_max: 6.5
+ec_ms_min: 1.4
+ec_ms_max: 2.4
 
 height_cm_min: 
 height_cm_max: 

@@ -1,0 +1,21 @@
+botanial_name: Salvia rosmarinus
+botanical_family: Lamiaceae
+botanical_family_en: Mint family
+culinary_use: Herb
+common_name_key: SALVIA_ROSMARINUS
+wikipedia_en_url: https://en.wikipedia.org/wiki/Rosemary
+
+temp_c_min: 15.6
+temp_c_max: 26.7
+temp_c_opt: 23.9
+ph_min: 5.5
+ph_max: 6.5
+ec_ms_min: 1.2
+ec_ms_max: 1.8
+
+height_cm_min: 
+height_cm_max: 
+spread_cm_min: 
+spread_cm_max: 
+maturity_days_min: 
+maturity_days_max: 

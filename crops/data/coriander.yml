@@ -1,0 +1,21 @@
+botanial_name: Coriandrum sativum
+botanical_family: Apiaceae
+botanical_family_en: Parsley family
+culinary_use: Herb
+common_name_key: CORIANDRUM_SATIVUM
+wikipedia_en_url: https://en.wikipedia.org/wiki/Coriander
+
+temp_c_min: 10.0
+temp_c_max: 26.7
+temp_c_opt: 18.3
+ph_min: 5.5
+ph_max: 6.5
+ec_ms_min: 1.2
+ec_ms_max: 2.0
+
+height_cm_min: 
+height_cm_max: 
+spread_cm_min: 
+spread_cm_max: 
+maturity_days_min: 
+maturity_days_max: 

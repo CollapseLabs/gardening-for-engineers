@@ -2,7 +2,7 @@
 
 Measurement | Optimum Range | Source
 --- | --- | ---
-ph | 5.5–6.0 | Howard Resh [1]
+pH | 5.5–6.0 | Howard Resh [1]
 EC | 2.2–2.7 mS | Howard Resh [1]
 Air Temperature | <23.9–25.6°C Day / >20°C Night | Howard Resh [1]
 Air Temperature | >21.1°C Day / >15.5°C Night | Cornell University [2]

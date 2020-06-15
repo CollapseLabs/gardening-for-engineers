@@ -17,7 +17,7 @@ Key|Value
 `botanical_family`|Cucurbitaceae
 `botanical_family_en`|Gourd family
 `culinary_use`|Fruiting Veg
-`wikipedia_en`|https://en.wikipedia.org/wiki/Cucumber
+`wikipedia_en_url`|https://en.wikipedia.org/wiki/Cucumber
 `temp_c_min`|20.0
 `temp_c_max`|25.5
 `ph_min`|5.5
@@ -36,7 +36,7 @@ Key|Value
 
 Measurement | Optimum Range | Source
 --- | --- | ---
-ph | 5.5–6.0 | Howard Resh [1]
+pH | 5.5–6.0 | Howard Resh [1]
 EC | 2.2–2.7 mS | Howard Resh [1]
 Air Temperature | <23.9–25.6°C Day / >20°C Night | Howard Resh [1]
 Air Temperature | >21.1°C Day / >15.5°C Night | Cornell University [2]

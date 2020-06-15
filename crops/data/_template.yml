@@ -3,12 +3,15 @@ botanical_family:
 botanical_family_en: 
 culinary_use: 
 common_name_key: 
-wikipedia_en: 
+wikipedia_en_url: 
 
 temp_c_min: 
 temp_c_max: 
+temp_c_opt: 
+temp_c_opt_day: 
 temp_c_opt_day_min: 
 temp_c_opt_day_max: 
+temp_c_opt_night: 
 temp_c_opt_night_min: 
 temp_c_opt_night_max: 
 ph_min: 

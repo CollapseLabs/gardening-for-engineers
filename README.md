@@ -4,7 +4,7 @@ This is a starting point for understanding how to grow vegetables at home. I cre
 
 This document reflects my personal learning journey over the past years. You are welcome to submit pull requests or email me with feedback.
 
-Currently the focus is on indoor and balcony growing in an urban apartment setting. Therefore, only container gardening and hydroponics are covered. Garden beds, composting, aquaponics, fungiculture, permaculture are not covered (yet).
+Currently the focus is on indoor and balcony growing in an urban apartment setting. Therefore, only hydroponics and container gardening are covered. Garden beds, composting, aquaculture, fungiculture, permaculture are not covered (yet).
 
 
 ## Table of Contents
@@ -16,20 +16,24 @@ This document is organized broadly in three parts:
     1. [🌱 Growth stages](#🌱-Growth-stages)
     1. [☀️ Light](#☀️-Light)
     1. [🌡 Temperature](#🌡-Temperature)
-    1. [⛽️ Nutrition](#⛽️-Nutrition)
+    1. [🧪 Nutrition](#🧪-Nutrition)
     1. [🤎 Soil](#🤎-Soil)
     1. [💧 Water](#💧-Water)
 1. 🔢 Data
 1. 🛠 Techniques & Resources
+1. 💰 Economics
 
-The first part provides a conceptual understanding of the science of growing vegetables. The second part features tables of data ("VegTable") for many garden crops. It answers basic questions about crop selection. The third part is a collection of links about well-known growing systems, techniques, and other resources.
+
+The first part provides a conceptual understanding of the science of growing vegetables. The second part features tables of data ("VegTable") for many garden crops. It answers basic questions about crop selection. The third part is a collection of links about well-known growing systems, techniques, and other resources. Finally, the last part examines the economics of market gardening.
 
 
 ## 🍎 Concepts
 
+
+
 ### ☯️ Environmental parameters
 
-There are some environmental parameters relevant to every plant:
+When growing plants, your task is to balance a number of highly interdependent factors, as listed below. An insufficient amount of, say, light or nutrition creates a limiting factor in plant growth and development. On the other hand, excessive light or fertilizer (i.e. beyond what a specific plant species can handle at a given metabolic rate) can also result in problems (tip burn, photo-oxidative stress).
 
 Parameter | Measurement | Unit | Zone
 --- | --- | --- | ---
@@ -42,8 +46,6 @@ Carbon dioxide (CO₂) | Carbon dioxide | ppm | Air
 **pH** | [pH](https://en.wikipedia.org/wiki/PH)* | pH | Soil/Water
 Temperature | Root-zone temperature | °C | Soil/Water
 Oxygen (O₂) | [Dissolved Oxygen (DO)](https://en.wikipedia.org/wiki/Oxygen_saturation) | ppm | Soil/Water
-Water redox potential | [Oxidation-reduction potential (ORP)](https://en.wikipedia.org/wiki/Reduction_potential) | mV | Water
-Water hardness | [Degree of hardness](https://en.wikipedia.org/wiki/Hard_water#Measurement) | various | Water
 
 \* key measurements for small-scale systems
 
@@ -62,7 +64,7 @@ Additionally, there is another critical process:
 
 *[Soil pH](#pH)* is sometimes called a “master variable” as it affects the solubility of soil nutrients (among other things, including microbial activity) and therefore nutrient availability, hence plant growth.
 
-Air *humidity*, *wind*, and *[temperature](#🌡-Temperature)* all affect the rate of transpiration and therefore also plant growth.
+Air *humidity*, *wind*, and *[temperature](#🌡-Temperature)* all affect the rate of transpiration and also therefore nutrient uptake and plant growth. For this reason, poor ventilation actually can result in nutrient deficiencies. 
 
 Environments:
 
@@ -91,6 +93,12 @@ Maturity | From first harvest to the end of last harvest | Harvest
 \* fruiting crops only
 
 
+#### More about plant growth
+
+* Mary M. Pratt, _Practical Science for Gardeners_, 2005.
+* "Chapter 10: Growth, Development, Transpiration, and Translocation as Affected by Abiotic Environmental Factors", _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
+
+
 ### ☀️ Light
 
 #### Light Quality
@@ -99,12 +107,15 @@ Maturity | From first harvest to the end of last harvest | Harvest
 
 *Light quality* refers to the distribution of wavelengths (colors) in a light. The part of the light spectrum most relevant to photosynthesis is 400–700 nm. This range is named [Photosynthetically Active Radiation (PAR)](https://en.wikipedia.org/wiki/Photosynthetically_active_radiation).
 
-Historically it was believed that plants only used red and blue light. It is now understood that green light, as well as far-red and ultraviolet light, which are both outside PAR, can all affect plant development. Specifically, far-red (FR) light, which penetrates leaves, can tell plants that they are under a canopy and promote growth, whereas blue-violet and ultraviolet light, which are abundant in the sky, can [inhibit growth](https://en.wikipedia.org/wiki/Crown_shyness).
+Simplistically speaking, blue light is needed to produce healthy stems and leaves. Red light is needed for flowering and fruiting, as well as seed germination, root growth, and seed production.
+
+Historically it was believed that plants only used PAR light. It is now understood that far-red and ultraviolet light, which are both outside PAR, can affect plant development. Specifically, far-red (FR) light, which penetrates leaves, can tell plants that they are under a canopy and promote growth, whereas blue-violet and ultraviolet light, which are abundant in the sky, can [inhibit growth](https://en.wikipedia.org/wiki/Crown_shyness).
+
 
 Shopping advice:
 
 * Color temperature, measured in Kelvin (K), is only relevant to humans, not plants.
-* Buy a full-spectrum light, not a red-blue ("blurple") light. Although there is research on the effects of changing light quality during growth, it is generally sufficient to use the same constant full-spectrum light from start to finish.
+* Buy a full-spectrum light, not a red-blue ("blurple") light. Although there is research on the effects of changing light quality during growth, in general it is sufficient to use the same constant full-spectrum light from start to finish.
 
 
 #### Light Quantity
@@ -139,12 +150,14 @@ Shopping advice:
 
 #### More about plant lighting
 
-* Fluence By OSRAM, https://fluence.science/science-articles/
+* "Chapter 7: Light", _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
 * AlboPepper, "PAR Light Quality LEDs & HID: Plant Grow Light Basics -101 (pt 1)", August 17, 2017, https://www.youtube.com/watch?v=O3dxjk_E2Ac
 * Bruce Bugbee, "PAR, PPF, PPFD, and PFD Explained", June 27, 2019, https://www.youtube.com/watch?v=UZO8Fb0ryW8
 * Bruce Bugbee, "Cannabis Grow Lighting Myths and FAQs with Dr. Bruce Bugbee", Jan 9, 2020, https://www.youtube.com/watch?v=ID9rE5JewVg
 * Ledtonic, "DLI (Daily Light Integral) Chart - Understand your plants' PPFD & photoperiod requirements", May 28, 2019, https://www.ledtonic.com/blogs/guides/dli-daily-light-integral-chart-understand-your-plants-ppfd-photoperiod-requirements
+* Fluence By OSRAM, https://fluence.science/science-articles/
 * Khan Academy, "Plant responses to light", https://www.khanacademy.org/science/biology/plant-biology#plant-responses-to-light-cues
+*  The Urban Vertical Farming Project, "LEDs For Vertical Farming: Buying Guide For Lights", June 13, 2017, https://urbanverticalfarmingproject.com/2017/06/13/led-light-buying-guide-for-vertical-farming/
 
 
 ### 🌡 Temperature
@@ -175,11 +188,12 @@ Plants can be grouped according to their tolerance for cold temperatures:
 
 #### More about plant temperature
 
+* "Chapter 8: Physical Environmental Factors and Their Properties", _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
 * Christopher Currey, "Find your just-right temperature", Oct 3, 2016, https://www.producegrower.com/article/hydroponic-production-primer-temperature/
 * Roberto Lopez, "Effects of Temperature on Greenhouse Crops", Purdue University, http://www.e-gro.org/pdf/206.pdf
 
 
-### ⛽️ Nutrition
+### 🧪 Nutrition
 
 Plants require 17 [essential nutrients](https://en.wikipedia.org/wiki/Plant_nutrition) ("[minerals](https://en.wikipedia.org/wiki/Mineral_(nutrient))") for survival.
 
@@ -187,9 +201,9 @@ Of these, plants obtain carbon (C), hydrogen (H), and oxygen (O) freely from air
 
 The remaining nutrients are obtained from the soil (or alternative growing medium) in the form of [salts](https://en.wikipedia.org/wiki/Salt_(chemistry)). This happens through multiple processes: by the root physically growing in contact with the nutrients ("root interception"), by dissolved nutrients flowing through the soil solution to the root ("mass flow"), and by dissolved nutrients diffusing through the soil solution to the depleted soil next to the plant root ("diffusion").
 
-Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios.
+Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios. 
 
-Nitrogen is a key ingredient in many plant substances, including chlorophyll. However, potassium is used by fruiting crops (such as tomatoes) even more heavily than nitrogen, as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
+Nitrogen is a key ingredient in many plant substances, including chlorophyll. It is used by leafy green crops (like lettuce) and more in the vegetative growth phase of fruiting crops. Phosphorus and especially potassium are more important for fruiting crops (such as tomatoes), as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
 
 ![Based on https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition](img/npk-stages.png)
 
@@ -224,6 +238,7 @@ Soil pH is highly important as it affects the bioavailability of nutrients to pl
 
 * Jeff Lowenfels, _Teaming with Nutrients: The Organic Gardener’s Guide to Optimizing Plant Nutrition_, 2013.
 * Mary M. Pratt, _Practical Science for Gardeners_, 2005.
+* "Chapter 11: Nutrition and Nutrient Uptake in Soilless Culture", _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
 * NM State University, "Science of Agriculture: Cation Exchange", https://scienceofagriculture.org/ch-cation.php
 * Khan Academy, "Acids, bases, and pH
 * Khan Academy, "Biogeochemical cycles", https://www.khanacademy.org/science/biology/ecology#biogeochemical-cycles
@@ -249,13 +264,17 @@ TBD
 
 ## 🔢 Data
 
-TBD
+See overview table at https://github.com/CollapseLabs/gardening-for-engineers/blob/master/crops/dist/_crops.csv and individual pages at https://github.com/CollapseLabs/gardening-for-engineers/tree/master/crops/dist
 
-
-See also: companion planting, succession planting, crop rotation
+The size and maturity values provided are for comparison purposes only. Actual values will vary considerably depending on seed variety, climate and other environmental factors, and growing technique.
 
 
 ## 🛠 Techniques & Resources
+
+_Vertical farming_ refers to indoor farming in an urban context, scaling vertically, based on an early concept of farming in New York City skyscrapers. It implies the use of artifical lighting, either as a supplement or a replacement for sunlight. A vertical farm is also known by the Japanese term _Plant Factory with Artificial Lighting (PFAL)_. Vertical farming may or may not involve vertical-plane growing (i.e. growing vertically in towers, as opposed to growing horizontally in racks).
+
+_Controlled-environment agriculture (CEA)_ refers to growing in a climate-controlled environment, typically a greenhouse but can also be completely indoors.
+
 
 ### Hydroponics
 
@@ -268,11 +287,15 @@ Techniques:
 
 More about hydroponics:
 
+* https://hortamericas.com/grower-resources/
 * https://generalhydroponics.com/knowledgebase
 * http://howardresh.com/
 * http://blogs.cornell.edu/cornellcea/
+* _Hydroponic Food Production: A Definitive Guidebook for the Advanced Home Gardener and the Commercial Hydroponic Grower_, Howard M. Resh
+* _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
+* _Plant Empowerment: The Basic Principles_ by Peter Geelen, Peter van Weel and Jan Voogt
 * https://scienceinhydroponics.com/
-* http://www.e-gro.org/ - focused on commercial greenhouses
+* https://www.youtube.com/user/TheFarmerTyler
 
 Online courses:
 
@@ -288,15 +311,11 @@ Automation:
 * Seed starter soil vs planting soil
 * Fungus gnats: https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=25318
 
-Online courses:
-
-* [GIY (Grow It Yourself)](https://www.giy.ie/) (Ireland) - free 12 week course
-* [Vegetable Academy](https://www.vegetableacademy.com/) (Canada) - free/paid
-
 Automation:
 
 * Xiaomi Flower Care (MiFlora) sensors: https://github.com/vrachieru/xiaomi-flower-care-api
 * DFRobot: [EcoDuino - An Auto Planting Kit](https://www.dfrobot.com/product-641.html)
+
 
 ### Backyard/allotment gardening
 
@@ -308,4 +327,44 @@ Methodologies:
 
 Techniques:
 
-* Hügelkultur
+* https://en.wikipedia.org/wiki/H%C3%BCgelkultur
+
+
+### General gardening/urban ag courses
+
+* [GIY (Grow It Yourself)](https://www.giy.ie/) (Ireland) - free 12 week course
+* [Vegetable Academy](https://www.vegetableacademy.com/) (Canada) - free/paid
+* [The Market Gardener](https://www.themarketgardener.com/) (Canada) - paid
+* https://www.purdue.edu/dffs/urbanag/programs/urban-ag-certificate/ - paid
+
+
+### Urban agriculture & market gardening resources
+
+* https://urbanagnews.com/
+* https://www.agritecture.com/blog/
+* https://urbanverticalfarmingproject.com/
+* http://www.e-gro.org/ - focused on commercial greenhouses
+
+
+### TBD
+
+* https://en.wikipedia.org/wiki/Reduction_potential
+* https://en.wikipedia.org/wiki/Hard_water#Measurement
+
+* https://en.wikipedia.org/wiki/Leaf_area_index
+* https://en.wikipedia.org/wiki/Vapour-pressure_deficit
+
+
+## Economics
+
+For a typical hydroponic greenhouse ([source: ZipGrow](http://blog.zipgrow.com/modern-hydroponic-production-why-all-the-right-people-are-wrong)):
+* Labor: 60% of total costs (of that, about 60% is harvest/packing)
+* Energy: 10–15% of total costs (for lighting and heating/cooling)
+* Packaging and Marketing: 8% of total costs
+* Supplies: 7% of total costs
+* Water: 5% of total costs
+* Miscellaneous: 3% of total costs
+* Insurance: 2% of total costs
+
+See also
+* https://jordbruksverket.se/v%C3%A4xthuskalkyler (Sweden)

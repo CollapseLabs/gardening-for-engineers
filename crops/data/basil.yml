@@ -3,10 +3,11 @@ botanical_family: Lamiaceae
 botanical_family_en: Mint family
 culinary_use: Herb
 common_name_key: OCIMUM_BASILICUM
-wikipedia_en: https://en.wikipedia.org/wiki/Basil
+wikipedia_en_url: https://en.wikipedia.org/wiki/Basil
 
-temp_c_min: 18.5
-temp_c_max: 35.0
+temp_c_min: 18.3
+temp_c_max: 32.2
+temp_c_opt: 23.9
 ph_min: 6.2
 ph_max: 6.8
 ec_ms_min: 1.6

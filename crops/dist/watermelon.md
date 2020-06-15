@@ -17,13 +17,7 @@ Key|Value
 `botanical_family`|Cucurbitaceae
 `botanical_family_en`|Gourd family
 `culinary_use`|Fruit
-`wikipedia_en`|https://en.wikipedia.org/wiki/Watermelon
-`temp_c_min`|None
-`temp_c_max`|None
-`ph_min`|None
-`ph_max`|None
-`ec_ms_min`|None
-`ec_ms_max`|None
+`wikipedia_en_url`|https://en.wikipedia.org/wiki/Watermelon
 `height_cm_min`|300
 `height_cm_max`|300
 `spread_cm_min`|40
@@ -32,3 +26,6 @@ Key|Value
 `maturity_days_max`|120
 
 
+## References
+
+* http://www.gardening.cornell.edu/homegardening/scenedc02.html

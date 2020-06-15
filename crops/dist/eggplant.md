@@ -19,13 +19,7 @@ Key|Value
 `botanical_family`|Solanaceae
 `botanical_family_en`|Nightshade family
 `culinary_use`|Fruiting Veg
-`wikipedia_en`|https://en.wikipedia.org/wiki/Eggplant
-`temp_c_min`|None
-`temp_c_max`|None
-`ph_min`|None
-`ph_max`|None
-`ec_ms_min`|None
-`ec_ms_max`|None
+`wikipedia_en_url`|https://en.wikipedia.org/wiki/Eggplant
 `height_cm_min`|100
 `height_cm_max`|100
 `spread_cm_min`|50
@@ -34,3 +28,6 @@ Key|Value
 `maturity_days_max`|150
 
 
+## References
+
+* http://www.gardening.cornell.edu/homegardening/scene26b5.html

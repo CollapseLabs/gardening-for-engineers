@@ -3,14 +3,15 @@ botanical_family: Amaranthaceae
 botanical_family_en: Amaranth family
 culinary_use: Leaf/Stem
 common_name_key: BETA_VULGARIS_CICLA
-wikipedia_en: https://en.wikipedia.org/wiki/Chard
+wikipedia_en_url: https://en.wikipedia.org/wiki/Chard
 
-temp_c_min: 
-temp_c_max: 
-ph_min: 
-ph_max: 
-ec_ms_min: 
-ec_ms_max: 
+temp_c_min: 12.8
+temp_c_max: 23.9
+temp_c_opt: 18.3
+ph_min: 5.5
+ph_max: 6.5
+ec_ms_min: 1.6
+ec_ms_max: 2.3
 
 height_cm_min: 20
 height_cm_max: 40

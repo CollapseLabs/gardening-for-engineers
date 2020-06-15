@@ -45,7 +45,7 @@ for child_path in in_dir_path.iterdir():
             del(crop['common_name_key'])
 
             headers = ['Key', 'Value']
-            matrix = [[f'`{k}`', str(v)] for k,v in crop.items() if not k == 'title']
+            matrix = [[f'`{k}`', str(v)] for k,v in crop.items() if not k == 'title' and v]
             crop_md_table = markdown_table.render(headers,matrix)	
 
             try:
@@ -62,8 +62,10 @@ for child_path in in_dir_path.iterdir():
         [out_crops_csv_fieldnames.append(k) for k in crop.keys() if k not in out_crops_csv_fieldnames]
 
 all_crops.sort(key=lambda k: k['crop_id'])
+all_crops.sort(key=lambda k: k['botanical_family'])
+all_crops.sort(key=lambda k: k['culinary_use'])
 
-out_crops_csv = out_dir_path.joinpath('crops.csv')
+out_crops_csv = out_dir_path.joinpath('_crops.csv')
 print('Writing ' + str(out_crops_csv))
 with out_crops_csv.open('w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=out_crops_csv_fieldnames)
