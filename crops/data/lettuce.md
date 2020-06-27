@@ -24,5 +24,6 @@ Air Temperature | 24°C Day/19°C Night | Cornell University CEA [4]
 * [4] https://blogs.cornell.edu/cornellcea/files/2019/06/Cornell-CEA-Lettuce-Handbook-.pdf
 * [5] https://www.hemmaodlat.se/odla/hur-mycket-naring-behover-vaxterna/
 * http://www.gardening.cornell.edu/homegardening/scene9aa6.html
+* https://plantvillage.psu.edu/topics/lettuce/infos
 * https://www.yara.us/crop-nutrition/lettuce/
 * https://www.ludvigsvensson.com/en/climate-screens/crop-tips/lettuce-culture/

@@ -19,6 +19,7 @@ This document is organized broadly in three parts:
     1. [🧪 Nutrition](#🧪-Nutrition)
     1. [🤎 Soil](#🤎-Soil)
     1. [💧 Water](#💧-Water)
+    1. [😷 Pests and diseases](#😷-Pests-and-diseases)
 1. 🔢 Data
 1. 🛠 Techniques & Resources
 1. 💰 Economics
@@ -64,7 +65,11 @@ Additionally, there is another critical process:
 
 *[Soil pH](#pH)* is sometimes called a “master variable” as it affects the solubility of soil nutrients (among other things, including microbial activity) and therefore nutrient availability, hence plant growth.
 
-Air *humidity*, *wind*, and *[temperature](#🌡-Temperature)* all affect the rate of transpiration and also therefore nutrient uptake and plant growth. For this reason, poor ventilation actually can result in nutrient deficiencies. 
+Air *humidity*, *wind*, and *[temperature](#🌡-Temperature)* all affect the rate of transpiration and also therefore nutrient uptake and plant growth. For this reason, poor ventilation actually can result in nutrient deficiencies.
+
+On the other hand, excessive ventilation decreases relative humidity which, in combination with heating the cooler incoming air (air holds more water at warmer temperatures), can increase transpiration, which decreases plant temperature and increases ambient humidity, resulting in a vicious cycle. Alternatively, if transpiration occurs to the extent that there is not enough water in the plant (e.g. during peak hours of the day), then stomata (microscopic openings on the undersides of leaves) will close, which increases leaf temperatures and decreases CO₂ exchange… [1]
+
+Humidity can be reduced in three ways: 1) heating (air holds more water at warmer temperatures), 2) ventilation ("out"), and 3)  condensation ("in").
 
 Environments:
 
@@ -76,6 +81,7 @@ Environments:
 * Mary M. Pratt, _Practical Science for Gardeners_, 2005.
 * Khan Academy, "Cellular respiration", https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation
 * Khan Academy, "Photosynthesis", https://www.khanacademy.org/science/biology/photosynthesis-in-plants
+* [1] https://www.greenhousecanada.com/empower-plants-through-balanced-climate-control-33115/
 
 
 ### 🌱 Growth stages
@@ -91,6 +97,8 @@ Fruiting* | From first fruit set to growth, ripening, and first harvest | -
 Maturity | From first harvest to the end of last harvest | Harvest
 
 \* fruiting crops only
+
+A general rule of thumb is to plant seeds twice as deep as they are large. 
 
 
 #### More about plant growth
@@ -203,7 +211,7 @@ The remaining nutrients are obtained from the soil (or alternative growing mediu
 
 Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios. 
 
-Nitrogen is a key ingredient in many plant substances, including chlorophyll. It is used by leafy green crops (like lettuce) and more in the vegetative growth phase of fruiting crops. Phosphorus and especially potassium are more important for fruiting crops (such as tomatoes), as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
+Nitrogen is a key ingredient in many plant substances, including chlorophyll. It has large impact for resilience against pests. It is used by leafy green crops (like lettuce) and more in the vegetative growth phase of fruiting crops. Phosphorus and especially potassium are more important for fruiting crops (such as tomatoes), as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
 
 ![Based on https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition](img/npk-stages.png)
 
@@ -259,14 +267,19 @@ Soil is best understood from three perspectives simultaneously:
 
 TBD
 
-* http://blog.zipgrow.com/carbonates-in-aquaponics/
-
 
 ## 🔢 Data
 
 See overview table at https://github.com/CollapseLabs/gardening-for-engineers/blob/master/crops/dist/_crops.csv and individual pages at https://github.com/CollapseLabs/gardening-for-engineers/tree/master/crops/dist
 
 The size and maturity values provided are for comparison purposes only. Actual values will vary considerably depending on seed variety, climate and other environmental factors, and growing technique.
+
+
+### 😷 Pests and diseases
+
+TBD
+
+Key here is to take an ecological (ecosystems) perspective.
 
 
 ## 🛠 Techniques & Resources
@@ -290,7 +303,9 @@ More about hydroponics:
 * https://hortamericas.com/grower-resources/
 * https://generalhydroponics.com/knowledgebase
 * http://howardresh.com/
-* http://blogs.cornell.edu/cornellcea/
+* https://blogs.cornell.edu/cornellcea/
+* https://blogs.cornell.edu/cornellcea/files/2020/05/Guide-To-Home-Hydroponics-For-Leafy-Greens.pdf
+* https://ceac.arizona.edu/resources/intro-hydroponics-cea
 * _Hydroponic Food Production: A Definitive Guidebook for the Advanced Home Gardener and the Commercial Hydroponic Grower_, Howard M. Resh
 * _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
 * _Plant Empowerment: The Basic Principles_ by Peter Geelen, Peter van Weel and Jan Voogt
@@ -304,6 +319,12 @@ Online courses:
 Automation:
 
 * DFRobot: [Build KnowFlow: automatic water monitor](https://www.dfrobot.com/blog-733.html), [How to Make An Automatic Water Changing System](https://www.dfrobot.com/blog-679.html)
+
+
+### Greenhouse growing
+
+* Greenhouse simulation models: https://gpe.letsgrow.com/
+* http://www.e-gro.org/
 
 
 ### Container gardening
@@ -332,18 +353,26 @@ Techniques:
 
 ### General gardening/urban ag courses
 
+* [The Market Gardener](https://www.themarketgardener.com/) (Canada) - paid
+* https://design.agritecture.com/learn/
 * [GIY (Grow It Yourself)](https://www.giy.ie/) (Ireland) - free 12 week course
 * [Vegetable Academy](https://www.vegetableacademy.com/) (Canada) - free/paid
-* [The Market Gardener](https://www.themarketgardener.com/) (Canada) - paid
-* https://www.purdue.edu/dffs/urbanag/programs/urban-ag-certificate/ - paid
 
+* https://www.purdue.edu/dffs/urbanag/programs/urban-ag-certificate/ - paid
+* https://hort.ifas.ufl.edu/training/ - paid
+* http://www.canr.msu.edu/online-college-of-knowledge/ - paid
+
+
+### Companion planting
+* Carrots Love Tomatoes: Secrets of Companion Planting for Successful Gardening
+* Rodale's Successful Organic Gardening: Companion Planting
 
 ### Urban agriculture & market gardening resources
 
 * https://urbanagnews.com/
 * https://www.agritecture.com/blog/
 * https://urbanverticalfarmingproject.com/
-* http://www.e-gro.org/ - focused on commercial greenhouses
+* https://www.facebook.com/groups/134018140298600/
 
 
 ### TBD

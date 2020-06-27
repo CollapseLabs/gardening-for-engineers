@@ -10,5 +10,6 @@ Temperature | 18.3–23.9°C; 21.1°C Ideal | ZipGrow [1]
 ## References
 
 * [1] https://zipgrow.com/quickcropsguide/
+* https://ceac.arizona.edu/resources/hydroponic-strawberries
 * https://www.yara.us/crop-nutrition/strawberry/
 * https://www.haifa-group.com/crop-guide/vegetables/strawberry-fertilizer
