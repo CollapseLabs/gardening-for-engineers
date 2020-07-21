@@ -69,7 +69,7 @@ Air *humidity*, *wind*, and *[temperature](#🌡-Temperature)* all affect the ra
 
 On the other hand, excessive ventilation decreases relative humidity which, in combination with heating the cooler incoming air (air holds more water at warmer temperatures), can increase transpiration, which decreases plant temperature and increases ambient humidity, resulting in a vicious cycle. Alternatively, if transpiration occurs to the extent that there is not enough water in the plant (e.g. during peak hours of the day), then stomata (microscopic openings on the undersides of leaves) will close, which increases leaf temperatures and decreases CO₂ exchange… [1]
 
-Humidity can be reduced in three ways: 1) heating (air holds more water at warmer temperatures), 2) ventilation ("out"), and 3)  condensation ("in").
+Humidity can be reduced in three ways: 1) heating (air holds more water at warmer temperatures), 2) ventilation ("out"), and 3) condensation ("in").
 
 Environments:
 
@@ -209,9 +209,9 @@ Of these, plants obtain carbon (C), hydrogen (H), and oxygen (O) freely from air
 
 The remaining nutrients are obtained from the soil (or alternative growing medium) in the form of [salts](https://en.wikipedia.org/wiki/Salt_(chemistry)). This happens through multiple processes: by the root physically growing in contact with the nutrients ("root interception"), by dissolved nutrients flowing through the soil solution to the root ("mass flow"), and by dissolved nutrients diffusing through the soil solution to the depleted soil next to the plant root ("diffusion").
 
-Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios. 
+Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios. Although nitrogen is abundant in the atmosphere (N₂), it is only available to plants in the form of ammonium (NH₄⁺, which has an acidic effect), nitrate (NO₃⁻, which has a basic effect), and urea.
 
-Nitrogen is a key ingredient in many plant substances, including chlorophyll. It has large impact for resilience against pests. It is used by leafy green crops (like lettuce) and more in the vegetative growth phase of fruiting crops. Phosphorus and especially potassium are more important for fruiting crops (such as tomatoes), as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
+Nitrogen is a key ingredient in many plant substances, including chlorophyll. It is used by leafy green crops (like lettuce) and more in the vegetative growth phase of fruiting crops. Phosphorus and especially potassium are more important for fruiting crops (such as tomatoes), as evidenced in the following diagram showing the [macronutrient uptake across time for a tomato plant](https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition): 
 
 ![Based on https://www.haifa-group.com/crop-guide/vegetables/tomato/crop-guide-tomato-plant-nutrition](img/npk-stages.png)
 
@@ -244,13 +244,14 @@ Soil pH is highly important as it affects the bioavailability of nutrients to pl
 
 #### More about plant nutrition
 
+* UC Nursery and Floriculture Alliance, "English" playlist, https://www.youtube.com/playlist?list=PLGfKOdq24vnL-XPpMQGhfMdHbKOlb-BnO
 * Jeff Lowenfels, _Teaming with Nutrients: The Organic Gardener’s Guide to Optimizing Plant Nutrition_, 2013.
 * Mary M. Pratt, _Practical Science for Gardeners_, 2005.
+* Sonneveld and Voogt, _Plant Nutrition for Greenhouse Crops_.
 * "Chapter 11: Nutrition and Nutrient Uptake in Soilless Culture", _Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food_, edited by Toyoki Kozai, Genhua Niu, Michiko Takagaki
-* NM State University, "Science of Agriculture: Cation Exchange", https://scienceofagriculture.org/ch-cation.php
-* Khan Academy, "Acids, bases, and pH
+* Khan Academy, "Acids, bases, and pH", https://www.khanacademy.org/science/biology/water-acids-and-bases
 * Khan Academy, "Biogeochemical cycles", https://www.khanacademy.org/science/biology/ecology#biogeochemical-cycles
-", https://www.khanacademy.org/science/biology/water-acids-and-bases
+* NM State University, "Science of Agriculture: Cation Exchange", https://scienceofagriculture.org/ch-cation.php
 
 
 ### 🤎 Soil
@@ -325,6 +326,7 @@ Automation:
 
 * Greenhouse simulation models: https://gpe.letsgrow.com/
 * http://www.e-gro.org/
+* https://www.backpocketgrower.org/
 
 
 ### Container gardening
