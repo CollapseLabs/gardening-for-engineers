@@ -1,2 +1,2 @@
-PyYAML==5.3.1
+PyYAML==5.4
 markdown-table==2019.4.13
