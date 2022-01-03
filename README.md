@@ -17,7 +17,7 @@ This document is organized broadly in three parts:
     1. [☀️ Light](#☀️-Light)
     1. [🌡 Temperature](#🌡-Temperature)
     1. [🧪 Nutrition](#🧪-Nutrition)
-    1. [🤎 Soil](#🤎-Soil)
+    1. [🟤 Growing Media](#🟤-Growing Media)
     1. [💧 Water](#💧-Water)
     1. [😷 Pests and diseases](#😷-Pests-and-diseases)
 1. 🔢 Data
@@ -207,7 +207,7 @@ Plants require 17 [essential nutrients](https://en.wikipedia.org/wiki/Plant_nutr
 
 Of these, plants obtain carbon (C), hydrogen (H), and oxygen (O) freely from air (CO₂ and O₂) and water (H₂O).
 
-The remaining nutrients are obtained from the soil (or alternative growing medium) in the form of [salts](https://en.wikipedia.org/wiki/Salt_(chemistry)). This happens through multiple processes: by the root physically growing in contact with the nutrients ("root interception"), by dissolved nutrients flowing through the soil solution to the root ("mass flow"), and by dissolved nutrients diffusing through the soil solution to the depleted soil next to the plant root ("diffusion").
+The remaining nutrients are obtained from the soil (or alternative growing media) in the form of [salts](https://en.wikipedia.org/wiki/Salt_(chemistry)). This happens through multiple processes: by the root physically growing in contact with the nutrients ("root interception"), by dissolved nutrients flowing through the soil solution to the root ("mass flow"), and by dissolved nutrients diffusing through the soil solution to the depleted soil next to the plant root ("diffusion").
 
 Nitrogen (N), phosphorus (P), and potassium (K) are required in the largest amounts; commercial fertilizers are labeled with N-P-K ratios. Although nitrogen is abundant in the atmosphere (N₂), it is only available to plants in the form of ammonium (NH₄⁺, which has an acidic effect), nitrate (NO₃⁻, which has a basic effect), and urea.
 
@@ -254,11 +254,14 @@ Soil pH is highly important as it affects the bioavailability of nutrients to pl
 * NM State University, "Science of Agriculture: Cation Exchange", https://scienceofagriculture.org/ch-cation.php
 
 
-### 🤎 Soil
+### 🟤 Growing Media
 
 Soil is best understood from three perspectives simultaneously:
 
 * **Physically**: Soil is a mixture of solids, liquids, and gases: typically 50% water, dissolved minerals, and various gases held in [pores](https://en.wikipedia.org/wiki/Pore_space_in_soil), 45% inorganic particles (sand, silt, and clay), and 5% organic matter ("[soil organic matter](https://en.wikipedia.org/wiki/Soil_organic_matter)"). *[Soil texture](https://en.wikipedia.org/wiki/Soil_texture)* is determined by the exact proportion of sand (most coarse), silt, and clay (most fine) particles.
+
+Porosity refers to the percentage of pores (microsopic spaces) in the growing medium which can contain water or air. Different media have different water-holding capacity. For example, coarse-grained media (such as foam) has a low water-holding capacity (i.e. holds onto water weakly), medium-grained media (such as rockwool) has a medium water-holding capacity, and fine-grained media (such as peat) has a high water-holding capacity (i.e. holds onto water strongly). Water-holding capacity and air porosity should be chosen to be appropriate for the crop and container size.
+
 * **Chemically**: Soil is effective an aqueous solution containing dissolved minerals (nutrients) along with organic and inorganic particles. The particles commonly have negative charges, which attract nutrients with positive charges (cations). This allows the soil to hold and release certain nutrients. The holding capacity of a soil is called the [cation-exchange capacity (CEC)](https://en.wikipedia.org/wiki/Cation-exchange_capacity).
 
 * **Biologically**: Soil is an ecosystem of microbes, including bacteria and mycorrhizal fungi. See Jeff Lowenfels, _Teaming with Microbes: The Organic Gardener’s Guide to The Soil Food Web_ and _Teaming With Fungi: The Organic Grower’s Guide to Mycorrhizae_
