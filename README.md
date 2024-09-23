@@ -17,7 +17,7 @@ This document is organized broadly in three parts:
     1. [☀️ Light](#☀️-Light)
     1. [🌡 Temperature](#🌡-Temperature)
     1. [🧪 Nutrition](#🧪-Nutrition)
-    1. [🟤 Growing Media](#🟤-Growing Media)
+    1. [🟤 Growing Media](#🟤-Growing-Media)
     1. [💧 Water](#💧-Water)
     1. [😷 Pests and diseases](#😷-Pests-and-diseases)
 1. 🔢 Data
